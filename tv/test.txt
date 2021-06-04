@@ -1,4 +1,4 @@
-電影台#genre#
+電影台,#genre#
 東森電影,P2p://fccseuro.pvbox.live:18912/5b1409f20009bbe29fe3e064dd468231.ts
 緯來電影,P2p://fccseuro.pvbox.live:18912/5b140922000ebd5b76e2ab4af5e7fb75.ts
 龍翔電影,P2p://fccseuro.pvbox.live:18912/5b14092200071c61b06a8738697f10ae.ts
@@ -24,8 +24,8 @@ Z頻道,P2p://fccseuro.pvbox.live:18912/5b14094a00088a56c163c32bb6faf8bc.ts
 靖天映畫,P2p://fccseuro.pvbox.live:18912/5b14093f0002d1c221d1c19922d41932.ts
 靖天卡通,P2p://fccseuro.pvbox.live:18912/5b14093e0009fa21d217a82446ad038a.ts
 靖洋戲劇臺,P2p://fccseuro.pvbox.live:18912/5b140917000666031b44053492b428cc.ts
-Nice TV靖天欢乐台,P2p://ns2.hellotvvod.com:9906/8d2a040962214faca51923406edcccc3.ts}
-台湾台#genre#
+Nice TV靖天欢乐台,P2p://ns2.hellotvvod.com:9906/8d2a040962214faca51923406edcccc3.ts
+台湾台,#genre#
 東風衛視,p3p://91.189.184.194:9806/604640af000dbd7a087f919857110af4.ts
 民視 HD,p3p://fccs.ggboxtv.tw:9806/6043597b000602c20708576dff009975.ts
 台視 HD,p3p://fccs.ggboxtv.tw:9806/604483a00001a70f01b50be75415ab3a.ts
@@ -138,7 +138,7 @@ ELTA體育3,P2p://fccseuro.pvbox.live:18912/5b25fc8c00046f122dd8a5d154bcf87a.ts
 博斯運動,P2p://fccseuro.pvbox.live:18912/5b1409f3000dc923a72b7479e3f2d849.ts
 Eleven Sport 1,P2p://fccseuro.pvbox.live:18912/5b13f6f00009f89b58f0943471333bcc.ts
 Eleven Sports 2 HD,P2p://fccseuro.pvbox.live:18912/5b3c4f9c000c2314627ef59a33122a3e.ts
-台湾备用#genre#
+台湾备用,#genre#
 中天新聞 (備二),P2p://fccseuro.pvbox.live:18912/5c2dd72e0002527b8513c4ec41b6e9f5.ts
 中天新聞 (備一),P2p://fccseuro.pvbox.live:18912/5b14096a000dc917c7befde7c4a48ba6.ts
 民視 (備二),P2p://fccseuro.pvbox.live:18912/5c2dd73c0002b6076c316efef65b6881.ts
@@ -198,9 +198,9 @@ ELTA體育3 (備一),P2p://fccseuro.pvbox.live:18912/5c7249f7000966364a68feb5b58
 東森綜合 (備三),P2p://fccseuro.pvbox.live:18912/5c724877000e7b2d0b24f59e68db0949.ts
 TVBS歡樂 (備三),P2p://fccseuro.pvbox.live:18912/5c72488a000a56b7c62c388ca356227f.ts
 壹電視新聞 (備三),P2p://fccseuro.pvbox.live:18912/5c724897000cb186a4bbbe3882b0ecf5.ts
-年代新聞 (備一),P2p://fccseuro.pvbox.live:18912/5b1409fd000a726993cfe01bb3d031d2.ts}
+年代新聞 (備一),P2p://fccseuro.pvbox.live:18912/5b1409fd000a726993cfe01bb3d031d2.ts
 
-国际台#genre#
+国际台,#genre#
 HBO-HD,p3p://fccs.ggboxtv.tw:9806/604338a40001163206880e5297cc95ab.ts
 HBO-HD,p3p://fccs.ggboxtv.tw:9806/604340b2000af04c06a787875d674b81.ts
 HBO原创,p3p://fccs.ggboxtv.tw:9806/604339520007991f068ab7ad0427275f.ts
@@ -266,8 +266,8 @@ BBC EARTH HD,P2p://fccseuro.pvbox.live:18912/5b1408f200071c8bda8dd5a44dfda4bb.ts
 LUXE?TV,P2p://fccseuro.pvbox.live:18912/5bdbf3ae0006e6cac753f975290d4d15.ts
 animax,P2p://fccseuro.pvbox.live:18912/5b14095f000b75ebce56aa4326004fac.ts
 Boomerang,P2p://fccseuro.pvbox.live:18912/5ee9c7bf000dbfa16d1d4ae93ca21c1c.ts
-nick.JR,P2p://fccseuro.pvbox.live:18912/5fc7777b00063284cf12f2dd438d5ad3.ts}]
-日本台#genre#
+nick.JR,P2p://fccseuro.pvbox.live:18912/5fc7777b00063284cf12f2dd438d5ad3.ts
+日本台,#genre#
 WOWOW-Prime,P2p://fccsovh.pvbox.live:18912/5ef1e4a6000934438cce283966956ca7.ts
 日本テレビ放送網,P2p://fccseuro.pvbox.live:18912/5eec5de50006f9057737cda4673f1301.ts
 テレビ東京,P2p://fccseuro.pvbox.live:18912/5eec5de6000de3027737d351073d67cc.ts
@@ -309,8 +309,8 @@ CGV??,P2p://fccsovh.pvbox.live:18912/5b140a0b0001de0f9db033fb58ce10fc.ts
 Mnet,P2p://fccsovh.pvbox.live:18912/5b140a0c0002578a115b1277a6fa3628.ts
 SBSGolf,P2p://fccsovh.pvbox.live:18912/5b140a0b000d120c969eda2033eb15b8.ts
 TV,P2p://fccsovh.pvbox.live:18912/5b140a0b000627f2e388b59a610c90f1.ts
-JTBC3???,P2p://fccsovh.pvbox.live:18912/5b140a0b00003210171a5ae480d81e3e.ts}]
-翻墙香港台tvbus#genre#
+JTBC3???,P2p://fccsovh.pvbox.live:18912/5b140a0b00003210171a5ae480d81e3e.ts
+翻墙香港台tvbus,#genre#
 鳳凰資訊,tvbus://5PQkmSaNk2sjuNgQH8cw46Ko6QDSX3epASPj6nanWgqbPq2dwT6EFxN6uBVGT
 鳳凰衛視,tvbus://6R8TLLFfoA9xE8RKMp2NuDkon9PjV3RN52cXw9bq15qSArywyYxxD7v23BUrR
 鳳凰香港,tvbus://6BrivxzN7Kb17Pxckejk3oa2hTLxDYT1iVKFxzh275WKLrREQKfs8gdghNqf9
@@ -359,7 +359,7 @@ TVB 经典台,tvbus://6R9gMZRtc4q7cXDSAunNjupchquEeGcHaGtTVZLpjF3hiohqzQ2VBpyk64
 星空卫视,tvbus://6Mis62zjjXhAFMV4jTpT8449d9eAuxtox4UDWXqSeWFQC1GgfNuE5GyZjFupc
 TVB星河,tvbus://6GD4drDe9s97AgKXotL5hjbAbfjVAek3d31CJ1fwx7AfHKKAHLC9bYuTC4dfZ
 TVB星河,tvbus://6g3iEy3MpdC2WR1stoEZJ4Pq26kJJi4TFiMeacgj6pQb1jc2E71zJQf1gG1BE
-台湾电影台tvbus#genre#
+台湾电影台tvbus,#genre#
 龍華電影,tvbus://6LwUVDeFb8Jsbakw6NkRVBFAA5KgeehuDN64LJKBiNRUVHAB7r42TWHiSTgsL
 東森電影,tvbus://5KVKy5MZ69VvVapedT8GC56zKNGuoCD4eqyfgwppcwFPYdc4GK5ghmydBRehB
 緯來電影,tvbus://5XDwXtHqpxQFkV9kv3JUroUu9bQnDJrSHwAPbt3EETaQi8TjL9rBBpF9wRsAF
@@ -384,7 +384,7 @@ CatchPlay電影台,tvbus://5KkNqoQ2jK5w7Z4RqFLiDppxWv29gctUDiNm2XTMwuZertsfjNARU
 靖天映畫,tvbus://5Y2LJHzn8EExip1PfcGApZxJLg7qUzqWpf7NiWvencGEnBEe9db9pCd5TrpHc
 靖洋戲劇台,tvbus://6ZBX5si4NTQrSwWLTk2qkedmK6EmeYQNaeRyKkQjuhDTzp1uTmM1TLQK5KWQK
 靖天電影台,tvbus://5TwdQ9cS9ytejmgT77nfnGW7xYuXtGxFqeeUjhgp79yQtamqBuxYkmY4FLLbe
-台湾台tvbus#genre#
+台湾台tvbus,#genre#
 台視,tvbus://6Uz6j3KQTSS5GjDTezuHHSozxzwZhEsBi6h39pUAkJfHvu5Ybsc9UMcnBcLgc
 民視,tvbus://6GwMH4m2UbVfWAMzAs38fnm1rmpMyqrwkPtBFZdrZkiBsmBrmSeQYonMVKusd
 中視（備）,p2p://0198.02686.cc:16871/5f3656bb000a656c3cbbfa6d262e3d24.ts
@@ -478,8 +478,8 @@ MOMO親子,tvbus://5ZmNFNkNNWLmV5r4xXWWQe7VWgsTVcX7Rn2jYap433Kjmh46SHNGxiAdKMn7h
 EYE_TV旅遊台,tvbus://6jAFC7WRYVnfPVGizQpwkrkwMXwj43JxqhQFPLSXP4ww7Q5mbNv9irAbmKJBc
 韓國娛樂台KMTV,tvbus://5NW3FFM1tRx9FiZW5KWX2kf6NDLwntDiFnjqnuPKqvqCczeGm7vk5FQX4tvto
 唯心電視,tvbus://6CMNBstbRzcdJbY7gDd6LwuXWB7ebiwehwqiwHzYtfCwLkkTCYM1pRggPCZHG
-非凡商業,tvbus://6eWzSkXPamkfbbEuACBdRgUUCxCFicmZVui2zQcaYJj7HRNDY9yZRZmzPfZSx}]
-体育台tvbus#genre#
+非凡商業,tvbus://6eWzSkXPamkfbbEuACBdRgUUCxCFicmZVui2zQcaYJj7HRNDY9yZRZmzPfZSx
+体育台tvbus,#genre#
 華視體育台,tvbus://6bJSUQVVo3EoQuP1S1mA1KKDsG2qo52CjTKU4RDu7doyUGpHqXu5jDm2HvL4n
 新視覺,tvbus://5PVcNiz6FFqDQngnfD5WZJ1m7dpeSH9KRQJU1PSL5wF3DM2wDrsgvhUQTJ2Vq
 愛爾達體育1台,tvbus://6KhXj8xz99EuGM9rd2eDLTdMpPh4TH6ZumiQ1x4ehChL1KmSQmqDezSjQMq5C
@@ -502,7 +502,7 @@ WWE NETWORK,tvbus://68G5dBjj8vZjkyfVp58528uL7dmseLZqDXBcKwFUQSPgXsc6zKzrWFCiKjns
 歡喜台,tvbus://5v8tSLF5YnYKZAucZVHLGbkMhgMm55D65iT3RtEVGojVqkHT96bezX8c3HJsG
 爱奇艺,tvbus://66FRpocmtD6gMwzcvdFBh66GfamAqyNA5s1b9FrEKnuUnjQXsQn7zs6YAR55g
 
-梦幻台SP#genre#
+梦幻台SP,#genre#
 Anal (18+),http://cdn.adultiptv.net/anal.m3u8
 Big Ass (18+),http://cdn.adultiptv.net/bigass.m3u8
 Big Dick (18+),http://cdn.adultiptv.net/bigdick.m3u8
@@ -572,8 +572,8 @@ HOT+西洋黑映画频道,http://libaoquan.1uu.top/hsss.php?id=7
 一本道国际放送频道,http://libaoquan.1uu.top/hsss.php?id=8
 IBIZAD槽素人频道,http://libaoquan.1uu.top/hsss.php?id=9
  IBIZA日本无码频道,http://libaoquan.1uu.top/hsss.php?id=10
-LeoTV HD,http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8}]
-翻墙 梦幻台#genre#
+LeoTV HD,http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
+翻墙 梦幻台,#genre#
 潘多拉完美,tvbus://6gDT6RSRhAM87JfZFB6zjJkq3s9jxDADVHq2DGBgAPf7bEFcokN2JEhHGKyhf
 極限電影,tvbus://6Cut46PBMejuFgxUEWoRa9Neyf1qJBg6vkPX78vkVH71dnNZ1cbH4fup3TZ72
 驚艷台,tvbus://6FL7HuhBxr8Bfhq4WzonUFhifTe8oNKsa1hQnLMzHepn46itxSpzkayaVEBXn
@@ -619,4 +619,4 @@ HOTH,tvbus://5M6U24c7r6sMG4u39wSAjnzZRKKueWuHFVWCKXsZdgacC3MGaJ8skYLr1rnkp
 粉红,P2p://fccseuro.pvbox.live:18912/5c7249ba0008b3211d5786b3068b4615.ts
 蕉台,P2p://fccseuro.pvbox.live:18912/5c7249cb000744bc8d84a353672b18fe.ts
 惊台,P2p://fccseuro.pvbox.live:18912/5c7249cf00095b61a6551090eece092b.ts
-e台,P2p://fccseuro.pvbox.live:18912/5c7249dd000ca2108817c65b6059636f.ts}
+e台,P2p://fccseuro.pvbox.live:18912/5c7249dd000ca2108817c65b6059636f.ts
