@@ -189,7 +189,6 @@ TVBS新闻,http://www.hrpan.tk/hls/tvbs_xw.m3u8
 中天新闻,http://www.hrpan.tk/hls/zt_news.m3u8
 纬来精采,https://usb.bozztv.com/ttvbHD/index.m3u8
 測試,#genre#
-三立臺灣,P2p://fccseuro.pvbox.live:18912/5c2dd74a000cbd46698addb74d61afbb.ts
-三立臺灣,P2p://fccseuro.pvbox.live:18912/5b14095f00075e71372e2240965ed494.ts
-三立臺灣,P2p://fccseuro.pvbox.live:18912/5c2dd74a000cbd46698addb74d61afbb.ts
+三立臺灣,P2p://fccseuro.pvbox.live:18912/5c2dd74a000cbd46698addb74d61afbb.ts#P2p://fccseuro.pvbox.live:18912/5b14095f00075e71372e2240965ed494.ts#P2p://fccseuro.pvbox.live:18912/5c2dd74a000cbd46698addb74d61afbb.ts
+
 
