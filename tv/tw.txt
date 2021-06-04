@@ -188,8 +188,7 @@ EYE TV戲劇台,P2p://ns2.hellotvvod.com:9906/1f3e94835b3f40a89aad44dc76f16e3c
 TVBS新闻,http://www.hrpan.tk/hls/tvbs_xw.m3u8
 中天新闻,http://www.hrpan.tk/hls/zt_news.m3u8
 纬来精采,https://usb.bozztv.com/ttvbHD/index.m3u8
-測試,#genre#
-台湾备用1#genre#
+台湾备用1,#genre#
 東風衛視,p3p://91.189.184.194:9806/604640af000dbd7a087f919857110af4.ts
 民視 HD,p3p://fccs.ggboxtv.tw:9806/6043597b000602c20708576dff009975.ts
 台視 HD,p3p://fccs.ggboxtv.tw:9806/604483a00001a70f01b50be75415ab3a.ts
@@ -302,7 +301,7 @@ ELTA體育3,P2p://fccseuro.pvbox.live:18912/5b25fc8c00046f122dd8a5d154bcf87a.ts
 博斯運動,P2p://fccseuro.pvbox.live:18912/5b1409f3000dc923a72b7479e3f2d849.ts
 Eleven Sport 1,P2p://fccseuro.pvbox.live:18912/5b13f6f00009f89b58f0943471333bcc.ts
 Eleven Sports 2 HD,P2p://fccseuro.pvbox.live:18912/5b3c4f9c000c2314627ef59a33122a3e.ts
-台湾备用2#genre#
+台湾备用2,#genre#
 中天新聞 (備二),P2p://fccseuro.pvbox.live:18912/5c2dd72e0002527b8513c4ec41b6e9f5.ts
 中天新聞 (備一),P2p://fccseuro.pvbox.live:18912/5b14096a000dc917c7befde7c4a48ba6.ts
 民視 (備二),P2p://fccseuro.pvbox.live:18912/5c2dd73c0002b6076c316efef65b6881.ts
