@@ -176,18 +176,7 @@ TV5Monde,P2p://ns2.hellotvvod.com:9906/f52457cd2c214d469e3dae33260f1cd8
 Cbeebies,P2p://ns2.hellotvvod.com:9906/f9222cd5d59c4d26996ee39c037bb37b
 EYE TV戲劇台,P2p://ns2.hellotvvod.com:9906/1f3e94835b3f40a89aad44dc76f16e3c
 新聞台,#genre#
-卫视电影,http://sxgs88.picp.vip:9090/hstv.php?id=93&type=.m3u8
-华视新闻hrcloud,http://www.hrcloud.tk/hls/hs_xwt.m3u8
-民视新闻,http://www.hrcloud.tk/hls/ms_xwt.m3u8
-三立LIVE新闻,http://www.hrcloud.tk/hls/sl_live.m3u8
-台视新闻,http://www.hrcloud.tk/hls/ts_xwt.m3u8
-中视新闻,http://www.hrcloud.tk/hls/zs_xwt.m3u8
-东森新闻,http://www.hrpan.tk/hls/ds_xwt.m3u8
-寰宇新闻,http://www.hrpan.tk/hls/hy_xwt.m3u8
-三立INEWS,http://www.hrpan.tk/hls/sl_news.m3u8
-TVBS新闻,http://www.hrpan.tk/hls/tvbs_xw.m3u8
-中天新闻,http://www.hrpan.tk/hls/zt_news.m3u8
-纬来精采,https://usb.bozztv.com/ttvbHD/index.m3u8
+
 台湾备用1,#genre#
 東風衛視,p3p://91.189.184.194:9806/604640af000dbd7a087f919857110af4.ts
 民視 HD,p3p://fccs.ggboxtv.tw:9806/6043597b000602c20708576dff009975.ts
