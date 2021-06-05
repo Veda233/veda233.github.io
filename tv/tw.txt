@@ -446,8 +446,7 @@ EYE_TV旅遊台,tvbus://6jAFC7WRYVnfPVGizQpwkrkwMXwj43JxqhQFPLSXP4ww7Q5mbNv9irAb
 韓國娛樂台KMTV,tvbus://5NW3FFM1tRx9FiZW5KWX2kf6NDLwntDiFnjqnuPKqvqCczeGm7vk5FQX4tvto
 唯心電視,tvbus://6CMNBstbRzcdJbY7gDd6LwuXWB7ebiwehwqiwHzYtfCwLkkTCYM1pRggPCZHG
 非凡商業,tvbus://6eWzSkXPamkfbbEuACBdRgUUCxCFicmZVui2zQcaYJj7HRNDY9yZRZmzPfZSx
-
-测试中,#genre#
+备用可用,#genre#
 ELTA影劇,p2p://fccseuro.pvbox.live:18912/5b1409dc0006a1ca305641ab9696976b
 ELTA影劇,p2p://fccsovh.pvbox.live:18912/5b1409dc0006a1ca305641ab9696976b
 ELTA綜合,p2p://fccseuro.pvbox.live:18912/5b1409db0002d1cf08b40d87eb24e73a
