@@ -1,7 +1,4 @@
 $c_start 深圳旁边频道$c_end
-ELTA影劇,mitv://fccseuro.pvbox.live:18912/5b1409dc0006a1ca305641ab9696976b#mitv://fccsovh.pvbox.live:18912/5b1409dc0006a1ca305641ab9696976b
-ELTA綜合,mitv://fccseuro.pvbox.live:18912/5b1409db0002d1cf08b40d87eb24e73a#mitv://fccsovh.pvbox.live:18912/5b1409db0002d1cf08b40d87eb24e73a
-EYETV旅遊,mitv://fccseuro.pvbox.live:18912/5b140916000c98189a8f92d5a76411a4#mitv://fccsovh.pvbox.live:18912/5b140916000c98189a8f92d5a76411a4
 民視,mitv://fccseuro.pvbox.live:18912/5c2dd73c0002b6076c316efef65b6881#mitv://fccseuro.pvbox.live:18912/5b1409690006a24a6938240e2c12a4c4#mitv://fccseuro.pvbox.live:18912/5c72483f0003db4b1d51bcf349367c26#mitv://fccsovh.pvbox.live:18912/5c2dd73c0002b6076c316efef65b6881
 台視,mitv://fccseuro.pvbox.live:18912/5c2dd73f000c83be0db4384477f9ca94#mitv://fccseuro.pvbox.live:18912/5b14095f000570be5e3fec254bfb79a4#mitv://fccseuro.pvbox.live:18912/5c72484300073d551d51cd7d6de955c4#mitv://fccsovh.pvbox.live:18912/5c2dd73f000c83be0db4384477f9ca94
 大愛,mitv://fccseuro.pvbox.live:18912/5b1409db0005716852e798a18129af98#mitv://fccsovh.pvbox.live:18912/5b1409db0005716852e798a18129af98
