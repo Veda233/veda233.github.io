@@ -1,135 +1,517 @@
-探索亚洲,http://live.lifetv.vip:18006/m3u8/37c6ad51#p2p://livep.lifetv.vip:8081/60a22ae40007b1910a46b30517bc38d8.ts
-國家野生,http://live.lifetv.vip:18006/m3u8/dc882466#p2p://livep.lifetv.vip:8081/60a22bde000504f90a4a82e64844f7f3.ts
-HBO-Hit,http://live.lifetv.vip:18006/m3u8/335d6895#p2p://livep.lifetv.vip:8081/60a22bfc000a1aca0a4af963a24b3d8a.ts
-HBO-family,http://live.lifetv.vip:18006/m3u8/1a67a2aa#p2p://livep.lifetv.vip:8081/60a22c1c000efe6e0a4b77a402f936c7.ts
-HBO原創,http://live.lifetv.vip:18006/m3u8/3c54101b#p2p://livep.lifetv.vip:8081/60a23392000573a10a689a2246545f89.ts
-民视,http://live.lifetv.vip:18006/m3u8/fd841196#p2p://livep.lifetv.vip:8081/60a233b1000266da0a6912731ca91ed6.ts
-台视,http://live.lifetv.vip:18006/m3u8/0610e13c#p2p://livep.lifetv.vip:8081/60a233cf000a1a200a69899b0f3e44a9.ts
-CNN,http://live.lifetv.vip:18006/m3u8/9050ee2c#p2p://livep.lifetv.vip:8081/60a233e80006937f0a69ea5cf27667cf.ts
-中视,http://live.lifetv.vip:18006/m3u8/7b007f53#p2p://livep.lifetv.vip:8081/60a234040004a5550a6a573ebff9fc23.ts
-大爱电视台,http://live.lifetv.vip:18006/m3u8/0fe40b1c#p2p://livep.lifetv.vip:8081/60a234210008219d0a6ac96a98676be8.ts
-华视,http://live.lifetv.vip:18006/m3u8/3d2107b0#p2p://livep.lifetv.vip:8081/60a23438000b1bef0a6b240531b35f01.ts
-中视菁采台,http://live.lifetv.vip:18006/m3u8/44aa1843#p2p://livep.lifetv.vip:8081/60a2345000092be90a6b81464ff5bef9.ts
-公视,http://live.lifetv.vip:18006/m3u8/a98ccb72#p2p://livep.lifetv.vip:8081/60a234b80009f3d30a6d17b9758b6b12.ts
-公视台语台,http://live.lifetv.vip:18006/m3u8/49ab3435#p2p://livep.lifetv.vip:8081/60a234d000090b770a6d753ecdfa239b.ts
-好消息,http://live.lifetv.vip:18006/m3u8/9e23bf25#p2p://livep.lifetv.vip:8081/60a234ea0001f3df0a6dd8fd829d2312.ts
-原住民,http://live.lifetv.vip:18006/m3u8/8d6f904e#p2p://livep.lifetv.vip:8081/60a23507000cb6820a6e4d06346574a6.ts
-客家电视,http://live.lifetv.vip:18006/m3u8/6caa4479#p2p://livep.lifetv.vip:8081/60a2351f000402ae0a6ea88c096ca899.ts
-國家地理,http://live.lifetv.vip:18006/m3u8/cab58bd3#p2p://livep.lifetv.vip:8081/60a235360005ccc00a6f02d92f7c93ff.ts
-探索頻道,http://live.lifetv.vip:18006/m3u8/592cd26f#p2p://livep.lifetv.vip:8081/60a2354f0003a5870a6f63f4f61172f7.ts
-動物星球,http://live.lifetv.vip:18006/m3u8/76011b82#p2p://livep.lifetv.vip:8081/60a235680009a0c70a6fc724129011c2.ts
-TLC,http://live.lifetv.vip:18006/m3u8/3beb476b#p2p://livep.lifetv.vip:8081/60a23581000f172a0a702a32872fa72e.ts
-CN卡通,http://live.lifetv.vip:18006/m3u8/7fb19ba9#p2p://livep.lifetv.vip:8081/60a23597000b82eb0a707f381bd404e8.ts
-迪士尼卡通,http://live.lifetv.vip:18006/m3u8/4356c4fc#p2p://livep.lifetv.vip:8081/60a235b20000a6a90a70e5e8cc6bedd1.ts
-MOMO親子,http://live.lifetv.vip:18006/m3u8/e56e53b8#p2p://livep.lifetv.vip:8081/60a235cb0003c02a0a71485bca74df14.ts
-東森YOYO,http://live.lifetv.vip:18006/m3u8/917ed93a#p2p://livep.lifetv.vip:8081/60a235e3000a51860a71a7c9ce92ffa5.ts
-緯來綜合,http://live.lifetv.vip:18006/m3u8/6bfaef10#p2p://livep.lifetv.vip:8081/60a235fd000482120a720bdd3b08e150.ts
-八大第一台,http://live.lifetv.vip:18006/m3u8/0c1c9c69#p2p://livep.lifetv.vip:8081/60a2361600006ac00a726c79e638e9de.ts
-八大綜合,http://live.lifetv.vip:18006/m3u8/41bea7e4#p2p://livep.lifetv.vip:8081/60a2362f0003c5df0a72cefc9530ca4c.ts
-三立台灣,http://live.lifetv.vip:18006/m3u8/04cace76#p2p://livep.lifetv.vip:8081/60a23647000b63210a732eaf21ca8984.ts
-三立都會,http://live.lifetv.vip:18006/m3u8/6fd6bcf8#p2p://livep.lifetv.vip:8081/60a236620005330c0a739692ca73c77c.ts
-卫视中文台,http://live.lifetv.vip:18006/m3u8/3b15e6b2#p2p://livep.lifetv.vip:8081/60a2367a000202980a73f3815b563a5d.ts
-東森綜合,http://live.lifetv.vip:18006/m3u8/d3cc16e5#p2p://livep.lifetv.vip:8081/60a236920001c48a0a7451311badc89d.ts
-东森超视,http://live.lifetv.vip:18006/m3u8/53633d87#p2p://livep.lifetv.vip:8081/60a236b40007c5e20a74d78b10b8f8db.ts
-八大娛樂,http://live.lifetv.vip:18006/m3u8/ae8d3762#p2p://livep.lifetv.vip:8081/60a237f5000aa7630a79be2f44d7b372.ts
-纬来育乐,http://live.lifetv.vip:18006/m3u8/f1a7b27f#p2p://livep.lifetv.vip:8081/60a238730008d8140a7ba9e9dc98cbb8.ts
-中天綜合,http://live.lifetv.vip:18006/m3u8/cd862c57#p2p://livep.lifetv.vip:8081/60a2388e00014e020a7c1173d36ddb7a.ts
-东风37,http://live.lifetv.vip:18006/m3u8/c1809a12#p2p://livep.lifetv.vip:8081/60a238a60003cc7e0a7c6fd6a05d2dc3.ts
-年代MUCH,http://live.lifetv.vip:18006/m3u8/9755ce73#p2p://livep.lifetv.vip:8081/60a238bc0009d7310a7cc7527e10f26e.ts
-中天娱乐,http://live.lifetv.vip:18006/m3u8/8767613c#p2p://livep.lifetv.vip:8081/60a238d3000598780a7d20149434b387.ts
-東森戲劇,http://live.lifetv.vip:18006/m3u8/35bb9175#p2p://livep.lifetv.vip:8081/60a238f100041d700a7d94e3164f6b1c.ts
-八大戲劇,http://live.lifetv.vip:18006/m3u8/ecd48897#p2p://livep.lifetv.vip:8081/60a23b190000e5340a8600508c904f16.ts
-TVBS欢乐,http://live.lifetv.vip:18006/m3u8/c9692259#p2p://livep.lifetv.vip:8081/60a23b300007145a0a865bbdf68d4b81.ts
-緯來戲劇,http://live.lifetv.vip:18006/m3u8/f04a37c7#p2p://livep.lifetv.vip:8081/60a23b5000090e590a86d93f4eda391d.ts
-高點綜合,http://live.lifetv.vip:18006/m3u8/9569303e#p2p://livep.lifetv.vip:8081/60a23b66000e2f1a0a87307f64d2a7bf.ts
-JET综合,http://live.lifetv.vip:18006/m3u8/0c5bc08e#p2p://livep.lifetv.vip:8081/60a23b830000b9bf0a879e557dee9670.ts
-壹综合HD,http://live.lifetv.vip:18006/m3u8/f0546361#p2p://livep.lifetv.vip:8081/60a23b9a0002da180a87f8b8b6612dd4.ts
-纬来精彩HD,http://live.lifetv.vip:18006/m3u8/9554fc33#p2p://livep.lifetv.vip:8081/60a23bb0000140c00a884e3f9bf10d71.ts
-三立財經,http://live.lifetv.vip:18006/m3u8/5ff59fda#p2p://livep.lifetv.vip:8081/60a23bc7000c797a0a88aaf76159e336.ts
-壹新聞,http://live.lifetv.vip:18006/m3u8/cc4d59da#p2p://livep.lifetv.vip:8081/60a23bdd000d573a0a89012033618d48.ts
-年代新聞,http://live.lifetv.vip:18006/m3u8/3abbaa2d#p2p://livep.lifetv.vip:8081/60a23bf2000262930a89505a0954fbda.ts
-东森新闻,http://live.lifetv.vip:18006/m3u8/1ecdeb5a#p2p://livep.lifetv.vip:8081/60a23c07000abd6e0a89a485924a370a.ts
-寰宇新闻,http://live.lifetv.vip:18006/m3u8/1fb0838b
-民视新闻HD,http://live.lifetv.vip:18006/m3u8/ced345d4#p2p://livep.lifetv.vip:8081/60a23df40002b1f10a91283e3db4a793.ts
-三立新聞,http://live.lifetv.vip:18006/m3u8/0ebc9684#p2p://livep.lifetv.vip:8081/60a23e0c00021a8f0a9185d7ee32456a.ts
-TVBS新聞HD,http://live.lifetv.vip:18006/m3u8/ea10c602#p2p://livep.lifetv.vip:8081/60a23e240006ddb20a91e4cfd301e273.ts
-TVBS HD,http://live.lifetv.vip:18006/m3u8/e9c339cc#p2p://livep.lifetv.vip:8081/60a23e3c000b799c0a9243bdb654cc68.ts
-東森財經,http://live.lifetv.vip:18006/m3u8/7a3a85b7#p2p://livep.lifetv.vip:8081/60a23e5b00003a2b0a92b9f42cee4bf2.ts
-非凡新聞,http://live.lifetv.vip:18006/m3u8/2187f64b#p2p://livep.lifetv.vip:8081/60a23e71000a851a0a931287af94b1fe.ts
-美亚电影,http://live.lifetv.vip:18006/m3u8/558343fa#p2p://livep.lifetv.vip:8081/60a23e88000a339b0a936c4adef7bfee.ts
-Fox,http://live.lifetv.vip:18006/m3u8/86d9ff6d#p2p://livep.lifetv.vip:8081/60a23ea5000835460a93dd0faf997313.ts
-卫视电影台,http://live.lifetv.vip:18006/m3u8/2359ba51#p2p://livep.lifetv.vip:8081/60a23ec2000b4b2e0a944f2105c1311c.ts
-東森電影,http://live.lifetv.vip:18006/m3u8/75d7613b#p2p://livep.lifetv.vip:8081/60a23ee5000ca9a10a94d833004c89d5.ts
-緯來電影,http://live.lifetv.vip:18006/m3u8/75966caf#p2p://livep.lifetv.vip:8081/60a23f0000012e5a0a953ebba41a3b18.ts
-龙祥电影,http://live.lifetv.vip:18006/m3u8/e4a13cc1#p2p://livep.lifetv.vip:8081/60a23f1d000898340a95b1e8fb071db3.ts
-HBO,http://live.lifetv.vip:18006/m3u8/8fdeabec#p2p://livep.lifetv.vip:8081/60a23f360001a0050a9611c83bbe48b4.ts
-东森洋片,http://live.lifetv.vip:18006/m3u8/14561539#p2p://livep.lifetv.vip:8081/60a23f4d0007cd4b0a966d3579d1bfd7.ts
-AXN,http://live.lifetv.vip:18006/m3u8/c1c18f78#p2p://livep.lifetv.vip:8081/60a23f690003f04f0a96d997d7a673f0.ts
-好萊塢,http://live.lifetv.vip:18006/m3u8/a78680e4#p2p://livep.lifetv.vip:8081/60a23f810008c9b70a973895660c5565.ts
-fox movies,http://live.lifetv.vip:18006/m3u8/e2ca442c#p2p://livep.lifetv.vip:8081/60a23f9f00023c530a97ac189f76dd73.ts
-星卫HD电影,http://live.lifetv.vip:18006/m3u8/cfcece47#p2p://livep.lifetv.vip:8081/60a23fbf000909e90a982ad6a61e649d.ts
-cinemax,http://live.lifetv.vip:18006/m3u8/79be7824#p2p://livep.lifetv.vip:8081/60a23fd9000923c70a98906c9c2620ef.ts
-纬来体育,http://live.lifetv.vip:18006/m3u8/04a6b392#p2p://livep.lifetv.vip:8081/60a23ff40005ac840a98f901b4302fd1.ts
-eleven sports1/plus,http://live.lifetv.vip:18006/m3u8/9eec5c46#p2p://livep.lifetv.vip:8081/60a240100005cf120a99666a85365acb.ts
-eleven sports2,http://live.lifetv.vip:18006/m3u8/a4970c8d#p2p://livep.lifetv.vip:8081/60a2402b0000cc9d0a99ce9a8f0f2d1c.ts
-momo綜合,http://live.lifetv.vip:18006/m3u8/cb76e2e5#p2p://livep.lifetv.vip:8081/60a24041000e1d590a9a27f291b92b19.ts
-纬来日本,http://live.lifetv.vip:18006/m3u8/b9c4ab9a#p2p://livep.lifetv.vip:8081/60a2405a000cc7bf0a9a89435b5304a5.ts
-一电影,http://live.lifetv.vip:18006/m3u8/4dcedbb6#p2p://livep.lifetv.vip:8081/60a240760007fc940a9af56944e538b8.ts
-ELAT综合,http://live.lifetv.vip:18006/m3u8/d28701e1#p2p://livep.lifetv.vip:8081/60a2409700019dac0a9b74af1b2637b5.ts
-ELTA体育1,http://live.lifetv.vip:18006/m3u8/7046aa3f#p2p://livep.lifetv.vip:8081/60a240af000430d70a9bd318e951a4ab.ts
-ELTA体育2,http://live.lifetv.vip:18006/m3u8/1d69687e#p2p://livep.lifetv.vip:8081/60a240ca000c36f40a9c3e9ea526c497.ts
-ELTA体育3,http://live.lifetv.vip:18006/m3u8/e35b6b75#p2p://livep.lifetv.vip:8081/60a24226000a024b0aa18d6d6a3412f1.ts
-信吉电视,http://live.lifetv.vip:18006/m3u8/9c15735d#p2p://livep.lifetv.vip:8081/60a2426b000c94e30aa29b9e9ba6e7e2.ts
-国兴卫视,http://live.lifetv.vip:18006/m3u8/9cd6fcae#p2p://livep.lifetv.vip:8081/60a24370000c230f0aa697098a2f747d.ts
-冠軍,http://live.lifetv.vip:18006/m3u8/ca74b5ef#p2p://livep.lifetv.vip:8081/60a243dd00014ce50aa83e0aa1be7946.ts
-全大电视 ,http://live.lifetv.vip:18006/m3u8/4237b2dc#p2p://livep.lifetv.vip:8081/60a243fb000c9a7f0aa8b61f15432195.ts
-信大,http://live.lifetv.vip:18006/m3u8/f154d9c3#p2p://livep.lifetv.vip:8081/60a244240008fa980aa9555af0eee0ec.ts
-z頻道,http://live.lifetv.vip:18006/m3u8/12158ea6#p2p://livep.lifetv.vip:8081/60a245630003c30f0aae321cd6044208.ts
-NHK,http://live.lifetv.vip:18006/m3u8/8f456766#p2p://livep.lifetv.vip:8081/60a2457d00063b260aae984e1acbf5f1.ts
-TvN,http://live.lifetv.vip:18006/m3u8/c3efccf2#p2p://livep.lifetv.vip:8081/60a245940004bec60aaef1c4e795b82b.ts
-WaKuWaku Japan,http://live.lifetv.vip:18006/m3u8/ac1c130a#p2p://livep.lifetv.vip:8081/60a245b6000336e30aaf763007ba67d5.ts
-星卫娱乐台,http://live.lifetv.vip:18006/m3u8/2657344c#p2p://livep.lifetv.vip:8081/60a245cb0006f37a0aafc92dd1b6d8fc.ts
-博斯高球2,http://live.lifetv.vip:18006/m3u8/331f6d9d#p2p://livep.lifetv.vip:8081/60a245e4000cf8710ab02c5fce134d66.ts
-亞洲旅遊,http://live.lifetv.vip:18006/m3u8/9331c00b#p2p://livep.lifetv.vip:8081/60a245fb00057ae20ab0844cd9089285.ts
-美食星球,http://live.lifetv.vip:18006/m3u8/00740cb7#p2p://livep.lifetv.vip:8081/60a2461500012c1a0ab0e8c23cee4e00.ts
-靖天日本,http://live.lifetv.vip:18006/m3u8/22b2a3c1#p2p://livep.lifetv.vip:8081/60a2462c000161d50ab142a84c678b8b.ts
-靖天電影,http://live.lifetv.vip:18006/m3u8/b6690265#p2p://livep.lifetv.vip:8081/60a24643000c58bd0ab19f4e3d968d1b.ts
-博斯高球1,http://live.lifetv.vip:18006/m3u8/69e91b16#p2p://livep.lifetv.vip:8081/60a2465e0000ea9b0ab205d994092b1c.ts
-AMIMAX,http://live.lifetv.vip:18006/m3u8/4d696d82#p2p://livep.lifetv.vip:8081/60a24674000376f50ab25c700e33e51a.ts
-霹靂台灣台,http://live.lifetv.vip:18006/m3u8/7b8dd162#p2p://livep.lifetv.vip:8081/60a2468e000918350ab2c3712df8e75d.ts
-人間衛視,http://live.lifetv.vip:18006/m3u8/20880537#p2p://livep.lifetv.vip:8081/60a246ab0007adce0ab3345ccbefe1df.ts
-台视新闻台,http://live.lifetv.vip:18006/m3u8/c23f3737#p2p://livep.lifetv.vip:8081/60a246c1000bea4e0ab38b62ad99b05f.ts
-台视综合,http://live.lifetv.vip:18006/m3u8/1364de9b#p2p://livep.lifetv.vip:8081/60a246db000324330ab3eeb3f7021dcd.ts
-公視3HD,http://live.lifetv.vip:18006/m3u8/a804122f#p2p://livep.lifetv.vip:8081/60a246f4000b45a30ab4527005377c37.ts
-民視台灣,http://live.lifetv.vip:18006/m3u8/2f2cc57a#p2p://livep.lifetv.vip:8081/60a2470c0008def50ab4af935c2ec809.ts
-台视财经台,http://live.lifetv.vip:18006/m3u8/1088d24f#p2p://livep.lifetv.vip:8081/60a2472f000d4d200ab5396dec560054.ts
-华视新闻台,http://live.lifetv.vip:18006/m3u8/091887ce#p2p://livep.lifetv.vip:8081/60a24752000aa1e60ab5c17620d389c8.ts
-历史H2,http://live.lifetv.vip:18006/m3u8/59d690d3#p2p://livep.lifetv.vip:8081/60a24768000548820ab61607dcde29f8.ts
-历史H1,http://live.lifetv.vip:18006/m3u8/5c2de6d6#p2p://livep.lifetv.vip:8081/60a24780000475040ab673914a156abb.ts
-亚洲美食,http://live.lifetv.vip:18006/m3u8/32fa8773#p2p://livep.lifetv.vip:8081/60a2479c00049dbd0ab6e0fc8344fd89.ts
-LIFETIME,http://live.lifetv.vip:18006/m3u8/f25a92cc#p2p://livep.lifetv.vip:8081/60a247b6000c328f0ab7487d08008b91.ts
-地理悠人,http://live.lifetv.vip:18006/m3u8/a50f3005#p2p://livep.lifetv.vip:8081/60a247ce00014c560ab7a372cb7452db.ts
-EYE旅游,http://live.lifetv.vip:18006/m3u8/bb7e06ef#p2p://livep.lifetv.vip:8081/60a247e90002b3080ab80d4611ec5d42.ts
-HGTV,http://live.lifetv.vip:18006/m3u8/54506ff9#p2p://livep.lifetv.vip:8081/60a247ff000be6bc0ab865915db89174.ts
-NBA动态,http://live.lifetv.vip:18006/m3u8/ec8e7fc2#p2p://livep.lifetv.vip:8081/60a248810008aaa10aba608df24934b9.ts
-BBC LIFE,http://live.lifetv.vip:18006/m3u8/74fd4d2a#p2p://livep.lifetv.vip:8081/60a24897000217cb0abab4ce87959468.ts
-BABYfIRST,http://live.lifetv.vip:18006/m3u8/d959b037#p2p://livep.lifetv.vip:8081/60a248ae00004c0d0abb0e31f1aafa21.ts
-BBC卡通,http://live.lifetv.vip:18006/m3u8/e9151843#p2p://livep.lifetv.vip:8081/60a248c30009f4630abb62b22e526ad0.ts
-BBC Earth,http://live.lifetv.vip:18006/m3u8/ea553fec#p2p://livep.lifetv.vip:8081/60a248df0002ccdf0abbce3d5790174d.ts
-BabyTV,http://live.lifetv.vip:18006/m3u8/5c624ce4#p2p://livep.lifetv.vip:8081/60a248f90002a55f0abc33c3fe2f1ac5.ts
-FOX家庭,http://live.lifetv.vip:18006/m3u8/fbb3b50d#p2p://livep.lifetv.vip:8081/60a24913000207510abc992a4f7ed2ce.ts
-FX,http://live.lifetv.vip:18006/m3u8/93610f6d#p2p://livep.lifetv.vip:8081/60a2492e000bccd60abd05236bb2f8e1.ts
-华纳WBTV,http://live.lifetv.vip:18006/m3u8/9cb32ea0#p2p://livep.lifetv.vip:8081/60a2494a000e408e0abd732386cb332b.ts
-CI,http://live.lifetv.vip:18006/m3u8/aad39e7d#p2p://livep.lifetv.vip:8081/60a249680005f81b0abde6344a788a05.ts
-FOX CRIME,http://live.lifetv.vip:18006/m3u8/ac25b195#p2p://livep.lifetv.vip:8081/60a24986000a4ae80abe5c806f1ebd65.ts
-KMTV,http://live.lifetv.vip:18006/m3u8/6d88eabe#p2p://livep.lifetv.vip:8081/60a249b800092af60abf1f86e6060645.ts
-三立戏剧,http://live.lifetv.vip:18006/m3u8/e27df090#p2p://livep.lifetv.vip:8081/60a249d00005a51a0abf7c5fff262211.ts
-卫视洋片,http://live.lifetv.vip:18006/m3u8/716adb39#p2p://livep.lifetv.vip:8081/60a249e7000e30fa0abfd867815e9807.ts
-中视新闻台,http://live.lifetv.vip:18006/m3u8/66836176#p2p://livep.lifetv.vip:8081/60a24a0400079e3f0ac04800220cc368.ts
-博斯无限,http://live.lifetv.vip:18006/m3u8/da31cc90#p2p://livep.lifetv.vip:8081/60a24a1c000d01f80ac0a72243ec95a8.ts
-博斯網球,http://live.lifetv.vip:18006/m3u8/bdec2954#p2p://livep.lifetv.vip:8081/60a24a37000219ce0ac10dcf0a1ddb2d.ts
-博斯运动1,http://live.lifetv.vip:18006/m3u8/967c8913#p2p://livep.lifetv.vip:8081/60a24a4e000dcf000ac16aa63de7ec65.ts
-博斯运动2,http://live.lifetv.vip:18006/m3u8/231c4866#p2p://livep.lifetv.vip:8081/60a24a690007d4b10ac1d2963a98ce74.ts
-博斯魅力,http://live.lifetv.vip:18006/m3u8/5c2d477b#p2p://livep.lifetv.vip:8081/60a24a8100087dc20ac23082a7650a79.ts
-凤凰资讯台,http://live.lifetv.vip:18006/m3u8/2c3cc674#p2p://livep.lifetv.vip:8081/60a24acb0001abf60ac34fd3906c2358.ts
-凤凰香港台,http://live.lifetv.vip:18006/m3u8/b18b32b6#p2p://livep.lifetv.vip:8081/60a24ae3000acf0f0ac3afea6cb08b12.ts
+台灣1,#genre#
+翡翠台,p2p://45.86.67.154:9906/60844ef400077701197290c30e102152.ts
+TVB J2,p2p://45.86.67.154:9906/60844f2800028baf19735aa0e40d40cd.ts
+无线新闻,p2p://45.86.67.154:9906/60844f60000f3de4197438a0a92e37c2.ts
+无线财经,p2p://45.86.67.154:9906/60844f87000b693d1974cffdba0f6bcd.ts
+TVB明珠,p2p://45.86.67.154:9906/60844fb200062b981975769e89069430.ts
+TVB明珠,p2p://45.86.67.154:9906/60aa2a800000269d11de299989fb0478.ts
+Viu TV,p2p://45.86.67.154:9906/60844fdc00068f0919761ac739a03048.ts
+有线新闻,p2p://45.86.67.154:9906/608450090003ff8b1976c9e718418647.ts
+有线娱乐,p2p://45.86.67.154:9906/608450380000850a1977809b4fe5365e.ts
+有线电影,p2p://45.86.67.154:9906/6084505d0006f73c197812cacc7933f8.ts
+有线体育,p2p://45.86.67.154:9906/60845086000827b91978b340d60cdb0f.ts
+有线18,p2p://45.86.67.154:9906/608450b6000894b319796edce760ab94.ts
+有线603,p2p://45.86.67.154:9906/608450e100061ba2197a16328fac5d9c.ts
+Now直播,p2p://45.86.67.154:9906/60845108000db4dd197ab07cd2dbd0cb.ts
+Now新闻,p2p://45.86.67.154:9906/6084512d000af03f197b404eae0df361.ts
+Now体育,p2p://45.86.67.154:9906/60845154000b8bd8197bd8ceb504ab78.ts
+Now国际,p2p://45.86.67.154:9906/6084517a000bfc38197c6d5b1e0c7817.ts
+开电视,p2p://45.86.67.154:9906/608451a9000d91b7197d255bdd013d3b.ts
+香港31台,p2p://45.86.67.154:9906/608451d90009336d197ddfbcd661ab4c.ts
+香港32台,p2p://45.86.67.154:9906/608451fc0000757e197e6637ff376d2e.ts
+凤凰资讯,p2p://45.86.67.154:9906/608452210008069f197ef8af4d11f006.ts
+凤凰资讯,p2p://51.255.74.85:19906/5d9f8d6e000e19efe69ac87b63431404.ts
+凤凰卫视,p2p://45.86.67.154:9906/6084524c00057d43197fa00128ec0137.ts
+凤凰卫视,p2p://51.255.74.85:19906/5eef8e8a00011ee7cac5eb254a973474.ts
+凤凰香港,p2p://45.86.67.154:9906/6084527400043dd819803befc821fb04.ts
+凤凰香港,p2p://51.255.74.85:19906/5eef91070001fc02cacfa3ac5ea50663.ts
+卫视卡式,p2p://45.86.67.154:9906/6085be6100016e3c052212b9cd6a5644.ts
+TVB星河,p2p://45.86.67.154:9906/6085be88000bab9a0522adb0e44bbcda.ts
+耀才财经,p2p://45.86.67.154:9906/60968944000b54a712dda01f7f2dda03.ts
+TVB Drama US,p2p://45.86.67.154:9906/608458f1000b1592199995f8dbb28f55.ts
+TVB E US,p2p://45.86.67.154:9906/60845918000e7640199a2f2d2eda6e26.ts
+TVB 1 US,p2p://45.86.67.154:9906/608458c9000e9d4c1998fa9f5a776ab3.ts
+TVB J1 US,p2p://45.86.67.154:9906/608458a2000bcdfa1998618f766f8696.ts
+新时代 2,p2p://45.86.67.154:9906/60845f0d000cf43d19b173d26f8f213b.ts
+新时代加东,p2p://45.86.67.154:9906/60845ebe00054aa719b03d44145763ed.ts
+新时代加西,p2p://45.86.67.154:9906/60845ee50004769e19b0d566aec4a8ce.ts
+凤凰美洲,p2p://45.86.67.154:9906/6096886a0002b49212da4a598f135311.ts
+澳门莲花,p2p://45.86.67.154:9906/60845296000c700c1980c2d95c637225.ts
+澳视澳门,p2p://45.86.67.154:9906/6097bf7a0000cd561799605d1ef2ec8f.ts
+爆谷台,p2p://45.86.67.154:9906/60a6aa08000e875f0430588877800fe5.ts
+爆谷台,p2p://45.86.67.154:9906/60a7e4f50002791208fe8339356403ee.ts
+民视,p2p://45.86.67.154:9906/6084693d000e591419d93faed852e672.ts
+台视,p2p://45.86.67.154:9906/60846966000382a919d9dd0fcaca62fa.ts
+华视,p2p://45.86.67.154:9906/6084698e000b36e919da7b4843638778.ts
+中视,p2p://45.86.67.154:9906/608469b100093e7619db037f2f676a84.ts
+寰宇新闻,p2p://45.86.67.154:9906/60846e83000f01c800021b02d33c4d6a.ts
+中天新闻,p2p://45.86.67.154:9906/60846ea7000b9b760002a6c42ab9ed5f.ts
+TVBS新闻,p2p://45.86.67.154:9906/60846ecd000709ab00033a08888c651a.ts
+东森新闻,p2p://45.86.67.154:9906/60846ef2000911510003cb1574f314d9.ts
+中视新闻,p2p://45.86.67.154:9906/60846f220009c891000486c452ffb47c.ts
+三立新闻,p2p://45.86.67.154:9906/60846f47000472ea000515ef3e24cb71.ts
+民视新闻,p2p://45.86.67.154:9906/60846f820005c2550005fcbc42da6f80.ts
+台视新闻,p2p://45.86.67.154:9906/60846faa0007803a0006996f64e25ab7.ts
+华视新闻,p2p://45.86.67.154:9906/60846fcf00060d6100072998c0cc9b83.ts
+年代新闻,p2p://45.86.67.154:9906/60846ffb000322910007d4b82081cfa5.ts
+HBO中文,p2p://45.86.67.154:9906/6085a3fb000528c004baf53defd1c7a4.ts
+HBO原创,p2p://45.86.67.154:9906/6085a421000a796104bb8b09384d7c6c.ts
+HBO巨献,p2p://45.86.67.154:9906/6085a44700012a8604bc1d17874ae450.ts
+HBO家庭,p2p://45.86.67.154:9906/6085a46c0004a31504bcae8387fa0ea5.ts
+FOX电影,p2p://45.86.67.154:9906/6085c00f0002e8f40528a2ca798f1c29.ts
+FOX罪案,p2p://45.86.67.154:9906/6085c039000ef07a052949eebcd206b9.ts
+FOX家庭,p2p://45.86.67.154:9906/6085c060000b38720529e152927d49a4.ts
+FOX动作,p2p://45.86.67.154:9906/6085c088000bb0ac052a7db193b6eb2e.ts
+星卫电影,p2p://45.86.67.154:9906/6085c0b00008bfe5052b1930dc492820.ts
+天映高清,p2p://45.86.67.154:9906/6085c0d600094eee052badc51bdff286.ts
+卫视西片,p2p://45.86.67.154:9906/6085c0f80008863c052c32627a08280a.ts
+美亚电影,p2p://45.86.67.154:9906/6085c11f0007371c052cca6401a94ab6.ts
+卫视电影,p2p://45.86.67.154:9906/6085c14a000f14c1052d745fa72802d3.ts
+龙祥时代,p2p://45.86.67.154:9906/6085c17000055429052e0650738b1bd9.ts
+东森电影,p2p://45.86.67.154:9906/6085c196000a28a4052e9bfdff200737.ts
+东森洋片,p2p://45.86.67.154:9906/6085c1b7000b05e7052f1d1dc77cfe36.ts
+好莱坞电影,p2p://45.86.67.154:9906/60ad53c30003ad530452eb5b55a4926e.ts
+好莱坞电影,p2p://45.86.67.154:9906/6085c1fa0007f4d20530220c5f582041.ts
+龙华电影,p2p://45.86.67.154:9906/6085c2200001fb290530b4f5218d8cef.ts
+TVBS,p2p://45.86.67.154:9906/6085c2500005aed705317167418dcae5.ts
+TVBS精彩,p2p://45.86.67.154:9906/6085c2750008fa21053202c76dd06804.ts
+TVBS欢乐,p2p://45.86.67.154:9906/6085c2d30005f84205337132461544ff.ts
+东森综合,p2p://45.86.67.154:9906/6085c302000f3f3505342b2a34a62a5f.ts
+东森戏剧,p2p://45.86.67.154:9906/6085c3270007d69c0534b9cd9e9cbf12.ts
+东森亚洲,p2p://45.86.67.154:9906/6085c355000494e905356ca720d101fa.ts
+东森幼幼,p2p://45.86.67.154:9906/6085c3a70008eaeb0536ae135f21db62.ts
+中天娱乐,p2p://45.86.67.154:9906/6085c3c9000ab9080537335a90860f36.ts
+中天综合,p2p://45.86.67.154:9906/6085c3fd0006e2170537fd7ee0970adc.ts
+三立综合,p2p://45.86.67.154:9906/6085c4280005cbc80538a52fca40efff.ts
+三立国际,p2p://45.86.67.154:9906/6085c44f000bd81505393f13a76a25c6.ts
+三立台湾,p2p://45.86.67.154:9906/6085c4730006ae1d0539ca61c5c7be6c.ts
+三立都会,p2p://45.86.67.154:9906/6085c49400084279053a4bb0a9e59ada.ts
+三立戏剧,p2p://45.86.67.154:9906/6085c4c3000b0fcc053b0400d7e272a8.ts
+卫视中文,p2p://45.86.67.154:9906/6085c507000b24d0053c0da5af83be69.ts
+纬来综合,p2p://45.86.67.154:9906/6085c52f0009aeb2053ca986695c28f7.ts
+纬来电影,p2p://45.86.67.154:9906/6085c54f000d2a2f053d276a03bf6bcb.ts
+纬来戏剧,p2p://45.86.67.154:9906/6085c5700003a5fb053da5e29e1e6b58.ts
+纬来精彩,p2p://45.86.67.154:9906/6085c5960000af01053e3990ccf1ee37.ts
+八大第一,p2p://45.86.67.154:9906/6085c5c000039e17053ede600646e4b7.ts
+八大戏剧,p2p://45.86.67.154:9906/6085c5e2000d9e73053f65c04d82798a.ts
+八大娱乐,p2p://45.86.67.154:9906/6085c604000b3c57053fe9f3588156b9.ts
+八大综合,p2p://45.86.67.154:9906/6085c628000639f70540754b99ee1197.ts
+星卫娱乐,p2p://45.86.67.154:9906/6085c64a0003aadb0540f9731d381075.ts
+爱尔达综合,p2p://45.86.67.154:9906/6085c66f000dd58305418c96063639c0.ts
+爱尔达娱乐,p2p://45.86.67.154:9906/6085c694000953f805421bf6b67a9fb1.ts
+爱尔达影剧,p2p://45.86.67.154:9906/6085c6b70001b5440542a2bbf66b1589.ts
+亚洲旅游,p2p://45.86.67.154:9906/6085c6d80007e7d6054325397e88da8e.ts
+LA1,http://62.210.125.150:1935/live/la1hd/playlist.m3u8
+LA1,p2p://45.86.67.154:9906/5d35ebff000226901784559fe732301c.ts
+LA1,rtsp://62.210.125.150:1935/live/la1hd
+LA1,p2p://45.86.67.154:9906/5f889be5000d993900045032c836fb4f.ts
+LA1,http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/master.m3u8
+LA2,p2p://45.86.67.154:9906/5d35f04500055347179507df82991c8c.ts
+Antena3,http://62.210.125.150:1935/live/ante3/playlist.m3u8
+Antena3,p2p://45.86.67.154:9906/5d35f1a100082bef179a57fa8b26842c.ts
+Antena3,rtsp://62.210.125.150:1935/live/ante3
+Cuatro,http://62.210.125.150:1935/live/cuatrohd/playlist.m3u8
+Cuatro,p2p://45.86.67.154:9906/5d35f234000d5d41179c97868afb218f.ts
+Cuatro,rtsp://62.210.125.150:1935/live/cuatrohd
+Telecinco,http://62.210.125.150:1935/live/telecin/playlist.m3u8
+Telecinco,p2p://45.86.67.154:9906/5d35f2b10009f0af179e7eeef7139c7b.ts
+Telecinco,rtsp://62.210.125.150:1935/live/telecin
+Lasexta,p2p://45.86.67.154:9906/5d35f315000dddcb17a0068fd847dca9.ts
+TV 3,http://62.210.125.150:1935/live/tv3h/playlist.m3u8
+TV 3,p2p://45.86.67.154:9906/5d377000000e9a4c038b928e6b4141b7.ts
+TV 3,gp2p://95.216.3.190:23455/?day=0&distribution=tv3hd
+TV 3,rtsp://62.210.125.150:1935/live/tv3h
+24 Horas,https://rtvelivestream.akamaized.net/24h_dvr_1850.m3u8
+24 Horas,p2p://45.86.67.154:9906/5d376f100005c5e60387e6cb9a73f4a2.ts
+24 Horas,gp2p://95.216.3.190:23455/?day=0&distribution=24h
+3/24,p2p://45.86.67.154:9906/5d376f9600020dcf0389f148ebf69af5.ts
+3/24,gp2p://95.216.3.190:23455/?day=0&distribution=324
+3/24,http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
+#0 HD,p2p://45.86.67.154:9906/5d360519000dcd6717e6662b2f6ed298.ts
+#0 HD,gp2p://95.216.3.190:23455/?day=0&distribution=canalplus
+#0 HD,http://148.251.66.26:23405/fox/playlist.m3u8
+M  Estrenos,p2p://45.86.67.154:9906/5d3770b100056f4c038e439dfa17f801.ts
+M  Estrenos,gp2p://95.216.3.190:23455/?day=0&distribution=estreno
+Hollywood,p2p://45.86.67.154:9906/5d3770510003608a038ccc1684088219.ts
+Hollywood,gp2p://95.216.3.190:23455/?day=0&distribution=hollywood
+FOX España,p2p://45.86.67.154:9906/5d36065a00024f5917eb4922a90ec2d1.ts
+FOX España,gp2p://95.216.3.190:23455/?day=0&distribution=foxhd
+AXN España,p2p://45.86.67.154:9906/5d3606ba000655b717ecc1299ff5b342.ts
+AXN España,gp2p://95.216.3.190:23455/?day=0&distribution=axnhd
+TNT España,p2p://45.86.67.154:9906/5d36071a0008108417ee389b37b1a0f4.ts
+TNT España,gp2p://95.216.3.190:23455/?day=0&distribution=tnthd
+Comedy Central,p2p://45.86.67.154:9906/5d360ecc000a33c7180c4877033e5894.ts
+Comedy Central,gp2p://95.216.3.190:23455/?day=0&distribution=comycentr
+Calle13,p2p://45.86.67.154:9906/5d373dd2000543fc02c78c7ab4b2b87b.ts
+Calle13,gp2p://95.216.3.190:23455/?day=0&distribution=calle13
+Cosmopolitan TV España,p2p://45.86.67.154:9906/5d373e420006ea5c02c9426665203957.ts
+Cosmopolitan TV España,gp2p://95.216.3.190:23455/?day=0&distribution=cosmo
+AMC,p2p://45.86.67.154:9906/5d373e9300089a2902ca7f3d05e09e85.ts
+AMC,gp2p://95.216.3.190:23455/?day=0&distribution=amces
+Fox Life,p2p://45.86.67.154:9906/5d373edb00007be902cb966930553e6e.ts
+AXN White,p2p://45.86.67.154:9906/5d373f200004b3ed02cca505e2a24337.ts
+AXN White,gp2p://95.216.3.190:23455/?day=0&distribution=axnwhite
+SYFY,p2p://45.86.67.154:9906/5d376d5c0009f254038140bd38521672.ts
+SYFY,gp2p://95.216.3.190:23455/?day=0&distribution=syfy
+M.cinedoc&roll,p2p://45.86.67.154:9906/5d376dcc000347080382f48844c9d6fd.ts
+M.cinedoc&roll,gp2p://95.216.3.190:23455/?day=0&distribution=mcinedoc
+M  Seriesmania,p2p://45.86.67.154:9906/5d376e1c000770a403842e1941a7f77b.ts
+M  Seriesmania,gp2p://95.216.3.190:23455/?day=0&distribution=mxtra
+M  Series,p2p://45.86.67.154:9906/5d4e0869000364be0e21a8bbce0b6300.ts
+M  Series,gp2p://95.216.3.190:23455/?day=0&distribution=mseries
+Caza Y pesca,p2p://45.86.67.154:9906/5d376e6b00048ff5038561f434f26e24.ts
+Caza Y pesca,gp2p://95.216.3.190:23455/?day=0&distribution=pesca
+M.drama,p2p://45.86.67.154:9906/5ffb1fbe0008e3120771d0636e7cb163.ts
+MTV España,p2p://45.86.67.154:9906/5d3605b20003ba2717e8b93e8ca089c6.ts
+MTV España,gp2p://95.216.3.190:23455/?day=0&distribution=mtvlive
+M20 TV,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+V2 Music,http://de1se01.v2beat.live/playlist.m3u8
+VH1,p2p://45.86.67.154:9906/5d360567000d919e17e796cbe76233bd.ts
+VH1,gp2p://95.216.3.190:23455/?day=0&distribution=vh1
+TCM,p2p://45.86.67.154:9906/5d3772b80008e9d503962fd92dadd4bd.ts
+TCM,gp2p://95.216.3.190:23455/?day=0&distribution=tcmhd
+M  Accion,p2p://45.86.67.154:9906/5d3771890005cfc703918f7680f3b517.ts
+M  Comedia,p2p://45.86.67.154:9906/5d3771d3000cb35a0392b24913d84ec3.ts
+M  Comedia,gp2p://95.216.3.190:23455/?day=0&distribution=comedia
+M. Dcine,p2p://45.86.67.154:9906/5d377225000169190393efb55ff2dbc9.ts
+M. Dcine,gp2p://95.216.3.190:23455/?day=0&distribution=mdcine
+Paramount Channel,p2p://45.86.67.154:9906/5d37727200034fdb03951cfa20bd5b7b.ts
+Paramount Channel,gp2p://95.216.3.190:23455/?day=0&distribution=paramount
+M.cines N,p2p://45.86.67.154:9906/5db5d85300038997055f214f01776c99.ts
+M.cines N,gp2p://95.216.3.190:23455/?day=0&distribution=mcinees
+Toros TV,http://62.210.125.150:1935/live/toros/playlist.m3u8
+Toros TV,p2p://45.86.67.154:9906/5d3d87d80009e20e01744790cf9a6ebb.ts
+Toros TV,gp2p://62.210.125.150:23455/?day=0&distribution=toros
+Eurosport 1,p2p://45.86.67.154:9906/5d3d85e0000b378c016c9727ff456212.ts
+Eurosport 1,gp2p://62.210.125.150:23455/?day=0&distribution=eusp1
+Eurosport 2,p2p://45.86.67.154:9906/5d3d8631000160b2016dd10a58b7861c.ts
+Eurosport 2,gp2p://62.210.125.150:23455/?day=0&distribution=eusp2
+GOL,http://62.210.125.150:1935/live/goltv/playlist.m3u8
+GOL,p2p://45.86.67.154:9906/5d3d86e1000e611c017083deabd0dba4.ts
+GOL,p2p://45.86.67.154:9906/60943a8a0001e6e909da1725a58a02b3.ts
+GOL,gp2p://62.210.125.150:23455/?day=0&distribution=goltv
+Teledeporte,http://62.210.125.150:1935/live/teledeport/playlist.m3u8
+Teledeporte,p2p://45.86.67.154:9906/5d3d8730000ccce40171b80f5f47f6b8.ts
+Teledeporte,gp2p://62.210.125.150:23455/?day=0&distribution=tdp
+Barca TV,p2p://45.86.67.154:9906/5d39ee5a0001284e0d491ead07af8c1e.ts
+Barca TV,gp2p://62.210.125.150:23455/?day=0&distribution=barcatv
+Real Madrid,p2p://45.86.67.154:9906/5d3a095b00035c840db29b25e849df91.ts
+Real Madrid,gp2p://62.210.125.150:23455/?day=0&distribution=reamadrid
+Esport 3,p2p://45.86.67.154:9906/5d39ea3d00099cd00d390f8fe763c0fd.ts
+Esport 3,gp2p://62.210.125.150:23455/?day=0&distribution=esport3
+Laligatv-EN,p2p://45.86.67.154:9906/5e46dfc4000599e6052618f2549c3a06.ts
+Laligatv-EN,rtsp://62.210.178.236:1935/live/laligatvbar-b
+Nat Geo Wild,p2p://45.86.67.154:9906/5d3dda9a00076e7c02b78cbf8079eb2e.ts
+Nat Geo Wild,gp2p://62.210.125.150:23455/?day=0&distribution=natwild
+Bemad TV,p2p://45.86.67.154:9906/5d3ddd19000f05c602c14ec83cfee3d1.ts
+Bemad TV,gp2p://62.210.125.150:23455/?day=0&distribution=bemadtv
+Beteve,p2p://45.86.67.154:9906/5d3ddda90000055302c37d71a16edfc4.ts
+Beteve,gp2p://62.210.125.150:23455/?day=0&distribution=beteve
+ETB 1,http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8
+ETB 2,http://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8
+Dmax,p2p://45.86.67.154:9906/5d43017d00023ca216d772231a08cd35.ts
+Dmax,gp2p://62.210.125.150:23455/?day=0&distribution=dmax
+Historia,p2p://45.86.67.154:9906/5d3ddaf1000611d402b8e03ed62ae9ac.ts
+Historia,gp2p://62.210.125.150:23455/?day=0&distribution=historia
+Atreseries,p2p://45.86.67.154:9906/5d3ddc4a0003358102be232a02dfa415.ts
+Atreseries,gp2p://62.210.125.150:23455/?day=0&distribution=a3s
+Iberalia tv,p2p://45.86.67.154:9906/5d4307de0005db6216f05df8d84cc814.ts
+Iberalia tv,gp2p://62.210.125.150:23455/?day=0&distribution=iberalia
+Discovery,p2p://45.86.67.154:9906/5d3ddb41000e727702ba1ae3f89a8306.ts
+Discovery,gp2p://62.210.125.150:23455/?day=0&distribution=discovery
+Mega,p2p://45.86.67.154:9906/5d3ddd61000e2e8002c267d1ac65948c.ts
+Mega,gp2p://62.210.125.150:23455/?day=0&distribution=mega
+RAC 105,p2p://45.86.67.154:9906/5d3606090000ad5317ea0c4f9197a3be.ts
+RAC 105,gp2p://95.216.3.190:23455/?day=0&distribution=rac105
+Trece,p2p://45.86.67.154:9906/5d43083100079c5916f1a2a32bb2a88b.ts
+Trece,gp2p://62.210.125.150:23455/?day=0&distribution=trece
+Divinity,p2p://45.86.67.154:9906/5d42fc4f0003936016c336ca0c6679f3.ts
+Divinity,gp2p://62.210.125.150:23455/?day=0&distribution=divinit
+Nova,p2p://45.86.67.154:9906/5d42fc9d000e725c16c46a43d4f69987.ts
+Nova,gp2p://62.210.125.150:23455/?day=0&distribution=nova
+IB3,p2p://45.86.67.154:9906/5d42fd000009d26016c5ebcc95a9ea1a.ts
+IB3,gp2p://62.210.125.150:23455/?day=0&distribution=ib3
+Dkiss TV,p2p://45.86.67.154:9906/5d4300d80006e2bf16d4eecba891a444.ts
+Dkiss TV,gp2p://62.210.125.150:23455/?day=0&distribution=dkiss
+Energy,p2p://45.86.67.154:9906/5d4301350006250a16d659e386190642.ts
+Energy,gp2p://62.210.125.150:23455/?day=0&distribution=energy
+7 Murcia,http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8
+FDF,p2p://45.86.67.154:9906/5d4301c8000cceb916d899cfb695fec4.ts
+FDF,gp2p://62.210.125.150:23455/?day=0&distribution=fdf
+8TV,p2p://45.86.67.154:9906/5d43020f00077f8016d9adcba1713b93.ts
+8TV,gp2p://62.210.125.150:23455/?day=0&distribution=8tv
+Neox,p2p://45.86.67.154:9906/5d3dde000001798302c4d1a92240a94b.ts
+Neox,gp2p://62.210.125.150:23455/?day=0&distribution=neox
+Canal Panda,p2p://45.86.67.154:9906/5dc1a73900000258199ae78790ef48ec.ts
+Canal Panda,gp2p://62.210.125.150:23455/?day=0&distribution=panda
+Boing,p2p://45.86.67.154:9906/5d4304180002d6ff16e19fc248bb2c8f.ts
+Boing,gp2p://62.210.125.150:23455/?day=0&distribution=boing
+Super 3/33,p2p://45.86.67.154:9906/5d43048f000159c216e370384a2dc9e7.ts
+Super 3/33,gp2p://62.210.125.150:23455/?day=0&distribution=super3
+Disney JR,p2p://45.86.67.154:9906/5d4304e100036d8716e4b111b1ac0490.ts
+Disney JR,gp2p://62.210.125.150:23455/?day=0&distribution=disnejr
+Disney ES,p2p://45.86.67.154:9906/5d43053d0005fa4f16e619186abf2c40.ts
+Disney ES,gp2p://62.210.125.150:23455/?day=0&distribution=disney
+Clan HD,p2p://45.86.67.154:9906/5d4305a90004572b16e7be8c83af4ad6.ts
+Clan HD,gp2p://62.210.125.150:23455/?day=0&distribution=clanhd
+Nicklodeon,p2p://45.86.67.154:9906/5d43060c0004bc4616e9415e9867f8f8.ts
+Nicklodeon,gp2p://62.210.125.150:23455/?day=0&distribution=niclodon
+Disney ,p2p://45.86.67.154:9906/5d43068c00022fef16eb34b78239f74f.ts
+Disney ,gp2p://62.210.125.150:23455/?day=0&distribution=disnexd
+CBN ES,http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
+CCTV综合,p2p://45.86.67.154:9906/608531c6000e24fe02fcd8824d1ce54c.ts
+CCTV财经,p2p://45.86.67.154:9906/608531e900098cf202fd600d9cfb874b.ts
+CCTV综艺,p2p://45.86.67.154:9906/60853207000bc1c002fdd5cd609464d8.ts
+CCTV国际高清,p2p://45.86.67.154:9906/60853226000c964302fe4f1c44061e0f.ts
+CCTV体育高清,p2p://45.86.67.154:9906/60853245000e966102fec8b7664f940f.ts
+CCTV电影高清,p2p://45.86.67.154:9906/60853288000984a702ffcd235f28ce3f.ts
+CCTV军农高清,p2p://45.86.67.154:9906/608532a7000337850300449efe2644af.ts
+CCTV电视剧高清,p2p://45.86.67.154:9906/608532c4000d029a0300b86862bec816.ts
+CCTV电视剧高清,p2p://51.255.74.85:19906/60904cb2000cb900adfa841b3b673797.ts
+CCTV纪录片高清,p2p://45.86.67.154:9906/608532f00004024a030161fa4178ffff.ts
+CCTV科教高清,p2p://45.86.67.154:9906/60853315000ddf940301f50850251d6e.ts
+CCTV戏曲,p2p://45.86.67.154:9906/60853334000328d003026b62b8519552.ts
+CCTV社会与法,p2p://45.86.67.154:9906/60853352000b5f9a0302e2acda01f142.ts
+CCTV新闻,p2p://51.255.74.85:19906/5e7d250f00066d160664764300ee1b09.ts
+CCTV新闻,p2p://45.86.67.154:9906/6085336e000cc96603035069cf51f8fa.ts
+CCTV少儿高清,p2p://45.86.67.154:9906/6085338d0001f6150303c6bcf8f97c1d.ts
+CCTV音乐高清,p2p://45.86.67.154:9906/608533ad000c5fbf03044666acec11ce.ts
+CCTV农业农村,p2p://45.86.67.154:9906/608533cf000765f70304c9f0f835ef73.ts
+CCTV农业农村,http://39.134.115.163:8080/PLTV/88888910/224/3221225907/index.m3u8
+CCTV体育赛事,p2p://45.86.67.154:9906/608532670001078202ff4a0e795b565e.ts
+东方卫视,p2p://45.86.67.154:9906/6085344100016c5c030685b8957ab5ca.ts
+东方卫视,p2p://51.255.74.85:19906/5c4f796d000d80756299fe0421b74f24.ts
+浙江卫视,p2p://45.86.67.154:9906/60853477000dfaef03075bdfd9190115.ts
+浙江卫视,p2p://51.255.74.85:19906/5c52244f000bbf706d058064019b4f22.ts
+湖南卫视,p2p://45.86.67.154:9906/6085349e000bd3cb0307f3aac192d5fd.ts
+湖南卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226493/1.m3u8
+江苏卫视,p2p://45.86.67.154:9906/608534c40002bf14030885c7f3a79af4.ts
+江苏卫视,p2p://51.255.74.85:19906/5c4f7cbe000881e762a6f119522e160a.ts
+江苏卫视,p2p://51.255.74.85:19906/5d9cf81a000ab05fdc83777a474e6b21.ts
+北京卫视,p2p://45.86.67.154:9906/608534e6000b6da603090cd00a507cbd.ts
+北京卫视,p2p://51.255.74.85:19906/5c5220d4000aa0136cf7e79e439c5185.ts
+福建卫视,p2p://45.86.67.154:9906/6085354800078f4d030a8aa22c0b4416.ts
+福建卫视,p2p://51.255.74.85:19906/5c4f7ffa0009062662b3939f3ee70f06.ts
+湖北卫视,p2p://45.86.67.154:9906/6085356e000f2b6d030b21051a1468eb.ts
+湖北卫视,p2p://51.255.74.85:19906/5c4f7f55000a6df462b10f73100a689b.ts
+河北卫视,p2p://45.86.67.154:9906/60853591000ed5fb030ba9a7ce57c5e2.ts
+河北卫视,p2p://51.255.74.85:19906/5c4f7c6d0000025862a5b2841aca1c67.ts
+山东卫视,p2p://45.86.67.154:9906/608535b40007b799030c308de1432e1b.ts
+山东卫视,p2p://51.255.74.85:19906/5c4f87e300051ada62d278d05191049b.ts
+CGTN Doc 高清,p2p://51.255.74.85:19906/5950692f00057e6e5613c54725e05a99.ts
+CGTN Doc 高清,p2p://51.255.74.85:19906/5c4f87a4000b29fc62d18445043c57bc.ts
+CCTV FR 法语,p2p://51.255.74.85:19906/5c521a19000a09316cdd9cf7209d6f91.ts
+CCTV Espanol,p2p://51.255.74.85:19906/5c5223f7000516256d0426ef29b12d4b.ts
+CCTV Espanol,http://livees.cgtn.com/1000e/prog_index.m3u8
+CGTN高清,p2p://51.255.74.85:19906/5c5222f8000742356d0043645d4874ce.ts
+黑龙江卫视,p2p://45.86.67.154:9906/608535fc0000c09c030d4804b09c6347.ts
+黑龙江卫视,p2p://51.255.74.85:19906/5c521cde000c809e6ce86f24120c402f.ts
+深圳卫视,p2p://45.86.67.154:9906/608536200008b2a5030dd6ad85422fe1.ts
+深圳卫视,p2p://51.255.74.85:19906/5c4f80d50003350662b6e99b68d13275.ts
+辽宁卫视,p2p://45.86.67.154:9906/60853664000b9efd030ee10d59491b40.ts
+辽宁卫视,p2p://51.255.74.85:19906/5c4f805000098b8d62b4e3b2536a4874.ts
+天津卫视,p2p://45.86.67.154:9906/608535da00082358030cc51890d06c85.ts
+天津卫视,p2p://51.255.74.85:19906/5c4f826d000528b262bd23dd0dc44d19.ts
+广东卫视高清,p2p://51.255.74.85:19906/5c4f814e0002dfea62b8c22e24bc0d3e.ts
+四川卫视,p2p://45.86.67.154:9906/60853642000c7964030e5c754b532c1f.ts
+四川卫视,p2p://51.255.74.85:19906/5c4f82bc0000234d62be572c5f0323df.ts
+贵州卫视,p2p://45.86.67.154:9906/6085368600069639030f649387c651ba.ts
+贵州卫视,p2p://51.255.74.85:19906/5c5218280001af676cd6056a40c20e5d.ts
+河南卫视,p2p://45.86.67.154:9906/608536c20004f83f03104e89dd28af00.ts
+河南卫视,p2p://51.255.74.85:19906/5c4f856400088c6862c8b9966aad483a.ts
+山西卫视,p2p://45.86.67.154:9906/608536e5000d240e0310d95895ccd58f.ts
+山西卫视,p2p://51.255.74.85:19906/5c5215e0000a73d66ccd1e7561ab5ffa.ts
+CHC电影,p2p://45.86.67.154:9906/6085370d00000d970311723eadd0e1e8.ts
+安徽卫视,p2p://51.255.74.85:19906/5c4f81f40008590e62bb4c05335c439a.ts
+厦门卫视,p2p://45.86.67.154:9906/608537310004ffa503120023d22f9828.ts
+西藏卫视,p2p://51.255.74.85:19906/5c4f84ed0000065662c6e68f31c778a4.ts
+海峡卫视,p2p://51.255.74.85:19906/5c4f7928000160da6298ed6268970926.ts
+云南卫视,p2p://51.255.74.85:19906/5c5217b100054d266cd4358e3dcc2f73.ts
+新疆卫视,p2p://51.255.74.85:19906/5c4f7e580000e39762ad30b83bc80ff1.ts
+旅游卫视,p2p://51.255.74.85:19906/5c4f7f940007770262b204c934547d12.ts
+中华功夫,p2p://51.255.74.85:19906/5c4f77c20003eb866293779665872c85.ts
+江西卫视,p2p://51.255.74.85:19906/5c4f808a0008d84362b5c61447c81c60.ts
+广东珠江,p2p://45.86.67.154:9906/60853755000596db03128ce96daa365e.ts
+甘肃卫视,p2p://51.255.74.85:19906/5c4f7dda000e328b62ab47f07c8931cc.ts
+人间卫视,p2p://51.255.74.85:19906/5c4f7769000ea8eb62921eae51111b09.ts
+吉林卫视,p2p://51.255.74.85:19906/5c521757000b4e096cd2d7873a20737e.ts
+内蒙古卫视,p2p://51.255.74.85:19906/5c5216d6000dbc966cd0e03e27cf4c9c.ts
+广东南方,p2p://51.255.74.85:19906/5c521e36000bf7ea6cedaec30d111711.ts
+陕西卫视,p2p://51.255.74.85:19906/5c4f8445000da4b062c459cb7ab11e55.ts
+重庆卫视,p2p://51.255.74.85:19906/5c4f88240003481c62d37641514874bb.ts
+广西卫视,p2p://51.255.74.85:19906/5c4f86c100098f0d62ce0d221f067301.ts
+宁夏卫视,p2p://51.255.74.85:19906/5c52191d000d53366cd9c56e14a84fef.ts
+青海卫视,p2p://51.255.74.85:19906/5c521977000c8ef46cdb24cc34125619.ts
+广东体育,p2p://51.255.74.85:19906/5cfecb610001e5c872a1a0ea407071d9.ts
+新视觉 HD,p2p://51.255.74.85:19906/5ac7e4a3000ad438e13a15b1498c6adf.ts
+Chinatv,p2p://51.255.74.85:19906/5c4f8320000181fc62bfde26703c1a43.ts
+北京青少,p2p://51.255.74.85:19906/5c5220330002e3476cf570ba0b012f46.ts
+CCTV风云足球,p2p://51.255.74.85:19906/5cfec62400045ec5728d2b3e16452731.ts
+卡酷动画,p2p://51.255.74.85:19906/5c521a6d0007bfd46cdee4823d1c04d7.ts
+青田新闻综合,p2p://51.255.74.85:19906/5fc29033000b9b242a2cde9976962613.ts
+青田新闻综合,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
+温州新闻综合,p2p://51.255.74.85:19906/60684c80000098b311b916527b800fa6.ts
+温州新闻综合,rtmp://livetv.dhtv.cn/live/news
+温州新闻综合,rtmp://livetv.dhtv.cn:1935/live/news
+瑞安新闻,p2p://51.255.74.85:19906/60684d250003a73111bb9ba62d6728bb.ts
+瑞安新闻,http://stream.rabtv.cn/xwzh/playlist.m3u8?_upt=deb7b2801602095261
+瑞安新闻,http://stream.rabtv.cn/xwzh/playlist.m3u8
+国家地理,p2p://45.86.67.154:9906/6090405d000ea20714354569856b5c42.ts
+探索发现,p2p://45.86.67.154:9906/6090408c000547691435fa9cfd629499.ts
+长城精品,p2p://45.86.67.154:9906/6096867e000e558e12d2cb7317fd10d8.ts
+浙江国际,p2p://51.255.74.85:19906/5c521fe9000d43076cf4525225f34cc1.ts
+安徽国际,p2p://51.255.74.85:19906/5c4f78cc00067a796297874f4d3d673f.ts
+山东国际,p2p://51.255.74.85:19906/5c521eae000ab54d6cef833149a82177.ts
+江苏国际,p2p://51.255.74.85:19906/5c521fb5000987fb6cf3863d4eff48c4.ts
+东方国际,p2p://51.255.74.85:19906/5c521f6c00042b9a6cf267b5719d4b55.ts
+重庆国际,p2p://51.255.74.85:19906/5c521f32000834056cf1862d2ccd0ee7.ts
+河南国际,p2p://51.255.74.85:19906/5c4f7d9e000a6c8162aa5c9815443cd8.ts
+广东国际,p2p://51.255.74.85:19906/5c4f83720009447d62c1207305aa29a7.ts
+深圳国际,p2p://51.255.74.85:19906/5c521eea00034b466cf06bab06103764.ts
+湖南国际,p2p://51.255.74.85:19906/5c4f7f14000f1bf262b012bd445d4104.ts
+CIBN综艺,p2p://51.255.74.85:19906/5c4f7c120005cc8962a450870b5912c3.ts
+CIBN经典剧场,p2p://51.255.74.85:19906/5c4f7b57000b12d162a1777818da2c74.ts
+CIBN都市,p2p://51.255.74.85:19906/5951d3930001c5df5b9b5afe69871b45.ts
+CIBN热播剧场,p2p://51.255.74.85:19906/5c521dff00038cd96cecd5c3462a3043.ts
+CIBN经典,p2p://51.255.74.85:19906/5c521b7f00027ed56ce3117b07571e04.ts
+CIBN真人秀,p2p://51.255.74.85:19906/5c521c10000a62946ce549e86c6f4c21.ts
+CIBN健康,p2p://51.255.74.85:19906/5c521bcf000cec226ce44ca67a2538c9.ts
+CIBN收藏,p2p://51.255.74.85:19906/5951d1c50003fe945b944edd0c6432c9.ts
+CIBN游戏,p2p://51.255.74.85:19906/5c521aea0003fc9f6ce0cbd42000103e.ts
+广东体育,p2p://45.86.67.154:9906/609694a800034e63130a1cb1667828ca.ts
+东森美洲,p2p://45.86.67.154:9906/609689ff000531a912e079048943002f.ts
+华视美洲,p2p://45.86.67.154:9906/60968b2200093bd412e4eac5118d079e.ts
+天映经典,p2p://45.86.67.154:9906/60ad434c000712c404129b6181cf5659.ts
+霹雳台湾,p2p://45.86.67.154:9906/60ad4a5300051b4e042e0e3842630966.ts
+宫廷剧场,p2p://51.255.74.85:19906/609777a200056b27c9fa597037827067.ts
+明星剧场,p2p://51.255.74.85:19906/60977675000042b4c9f5c0507f74713b.ts
+搞笑电影,p2p://51.255.74.85:19906/609775bf00014618c9f2f9ae247f3877.ts
+喜剧大片,p2p://51.255.74.85:19906/609774eb0003f3ccc9efbe3a30c657d0.ts
+国产大片,p2p://51.255.74.85:19906/609773d7000b6a89c9eb89ff2c147cfa.ts
+吴京电影,p2p://51.255.74.85:19906/5fe88fe400028476be9c407557d7573b.ts
+刘德华电影,p2p://51.255.74.85:19906/5fe8905000022564be9de64551fb3307.ts
+徐峥作品,p2p://51.255.74.85:19906/5fe890b300018706be9f68ce0c8d466b.ts
+时代姐妹,p2p://51.255.74.85:19906/5fe8910000062203bea096bf66ee5752.ts
+成龙电影,p2p://51.255.74.85:19906/6040e6eb00038dee17b197543847369b.ts
+沈腾电影,p2p://51.255.74.85:19906/6044fe130001578f27ac1ba2603f06db.ts
+甄子丹,p2p://51.255.74.85:19906/6040e27b000b4cfc17a043c857c87715.ts
+科幻大片,p2p://51.255.74.85:19906/60966f61000d6000c5f219656c072e64.ts
+周润发电影,p2p://51.255.74.85:19906/5fe88f1d0004782bbe99379a398b75ed.ts
+动作大片,p2p://51.255.74.85:19906/6021ab3c00035b8a9daff70a54ec2782.ts
+李连杰电影,p2p://51.255.74.85:19906/5fe88ea6000ed91bbe97696219a77105.ts
+周星驰电影,p2p://51.255.74.85:19906/5fe88f9300086650be9b05937ac80afd.ts
+高分大片,p2p://51.255.74.85:19906/60967048000a375ac5f59ef21f234cdc.ts
+爱情大片,p2p://51.255.74.85:19906/5fe8917e00099814bea283d91f045f92.ts
+林正英电影,p2p://51.255.74.85:19906/6085a18b00073eeb844dc5fc6d361b1c.ts
+RTL ll,p2p://45.86.67.154:9906/5ef391340004c06912269f956da00c8c.ts
+DAS,p2p://45.86.67.154:9906/5edbef3a00029ee603748153357ce6cf.ts
+Arte,p2p://45.86.67.154:9906/5edbefdb0000da750376f5c74f469c39.ts
+3sat,p2p://45.86.67.154:9906/5edbf0f000095a3b037b31fc7882e303.ts
+BR,p2p://45.86.67.154:9906/5edbf15d00062378037cdaf276666b4e.ts
+Kika,p2p://45.86.67.154:9906/5edbf1bd000cb2d3037e53a06afbc2be.ts
+HR,p2p://45.86.67.154:9906/5edbf21c0009cf65037fc5faa87a0a4f.ts
+Mdr,p2p://45.86.67.154:9906/5edbf272000974ef038115d363d94769.ts
+Zdf,p2p://45.86.67.154:9906/5edbf2d8000485320382a3002eb3bc33.ts
+Vox,p2p://45.86.67.154:9906/5edbf3340000dd8103840970307b3f3f.ts
+Rtl,p2p://45.86.67.154:9906/5edbf3a90005d20f0385d3bd2bcf6ec2.ts
+Prosieben7,p2p://45.86.67.154:9906/5edbf43a0005ecbe03880a2c19b22719.ts
+Sat1,p2p://45.86.67.154:9906/5edbf4a40000b07e0389a6e5a24a8ea5.ts
+Kabe1,p2p://45.86.67.154:9906/5edbfbc6000f082103a5876093d77d27.ts
+HBO1,p2p://45.86.67.154:9906/5d4c70ec000c155c07e9eaadb6911952.ts
+HBO2,p2p://45.86.67.154:9906/5d4c571700077cce078501788c8a8224.ts
+HBO3,p2p://45.86.67.154:9906/5d4c577700016df3078676eb8ab0cea9.ts
+BBCword news,p2p://45.86.67.154:9906/5d430881000e520716f2dcdaa907a093.ts
+NBA HD,p2p://45.86.67.154:9906/5d4c71910003178007ec6ce8ea421d1d.ts
+Fight HD,p2p://45.86.67.154:9906/5d4c72b90006704707f0f2039692599f.ts
+FOXsport 1,p2p://192.95.32.107:9906/59bbf21600071468563679492664613f.ts
+FOXsport 2,p2p://192.95.32.107:9906/59e2b81e00049c3eedabbfe568a9573b.ts
+Italia 2,http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8?fluxustv.m3u8
+Rai 3,http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
+Rai 4,http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/index_1800_av-p.m3u8
+Rai 5,http://b2everyrai-lh.akamaihd.net:80/i/rai5_1@182695/master.m3u8
+Rai Movie,http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+Rai Movie,http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-p.m3u8?sd=10&rebase=on
+Rai Premium,http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
+Rai Gulp,http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
+Rai Yoyo,http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
+Rai News 24,https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews_1800/chunklist.m3u8
+MTV,rtmp://edge2.everyon.tv/etv2sb/phd1377
+MVmobil,http://alhls.cdn.zhanqi.tv/zqlive/246422_GSpB2.m3u8
+Vivid HD,p2p://45.86.67.154:9906/5d4c58250004966307891f6aec517474.ts
+日本J-Girl,p2p://45.86.67.154:9906/5d5992d900092aec076d9701a5d05e67.ts
+西方21Member,p2p://45.86.67.154:9906/5d59934300011aba076f33001616e67f.ts
+Hustler,p2p://45.86.67.154:9906/5d4c596f00037cee078e283229e92ed5.ts
+Dorcel,p2p://45.86.67.154:9906/5d4c59d300046907078faf0e2ec1f6ef.ts
+Private,p2p://45.86.67.154:9906/5d4c5a4d0000fa2607918abd4b19d609.ts
+Redlight,p2p://45.86.67.154:9906/5d4c5ab0000b952e0793102c944e6d2b.ts
+Penthouse,p2p://45.86.67.154:9906/5d4f96c10008ca971435b1dd34df64a7.ts
+西方1ON1,p2p://45.86.67.154:9906/5d5993b80005f6e90770fd4750858dad.ts
+西方21Sextuary,p2p://45.86.67.154:9906/5d59940400084e1b077226c02d3c1976.ts
+西方葡萄牙情色,p2p://45.86.67.154:9906/5d59949e000647c707747fcbd735c60c.ts
+西方老牛吃嫩草,p2p://45.86.67.154:9906/5d5994f60008897a0775d81f36e3fcbf.ts
+日本加勒比无码,p2p://45.86.67.154:9906/5d599556000458b807774e0d94f7b8e4.ts
+日本东京热无码,p2p://45.86.67.154:9906/5d59959d0008801e07786475971fae8c.ts
+韩国演艺圈潜规则,p2p://45.86.67.154:9906/5d5995e9000e2c6707798ec91bc8ba08.ts
+日本一本道无码,p2p://45.86.67.154:9906/5d59962f00074b49077a9e76646ad3d6.ts
+日本天热素人无码,p2p://45.86.67.154:9906/5d59966d000e5f60077b9276d8257da1.ts
+Naughty America,p2p://45.86.67.154:9906/5d5996cc0004d512077d031d6df4719e.ts
+西方OFFICE场景,p2p://45.86.67.154:9906/5d59971a0008b9c4077e34cceff4aa94.ts
+西方黑白大战,p2p://45.86.67.154:9906/5d59976d000162a8077f77232ed1532c.ts
+中字有码1,p2p://45.86.67.154:9906/6088559700006d6a0f40bd67867e9505.ts
+中字有码2,p2p://45.86.67.154:9906/608855c400097d900f416f8130c4b7e2.ts
+Happy,p2p://45.86.67.154:9906/60885889000aab420f4c4156421fedd9.ts
+上原亚衣,p2p://45.86.67.154:9906/60885714000d79780f469106a18a8398.ts
+日本PPV-1,p2p://45.86.67.154:9906/608856e1000e0e8a0f45c9f495659823.ts
+奥体金丝雀,p2p://45.86.67.154:9906/60885696000e73570f44a516ac364b5e.ts
+日本VR精品,p2p://45.86.67.154:9906/6088565d00040b9b0f43c3c4428ec6b5.ts
+潘朵拉粉红,p2p://45.86.67.154:9906/608858600001ceac0f4b9ee9d6e55ce1.ts
+松视1,p2p://45.86.67.154:9906/608857aa0008e95c0f48d9cb3b7db140.ts
+松视2,p2p://45.86.67.154:9906/608857da0000c3a40f499335d3dd3c2f.ts
+松视3,p2p://45.86.67.154:9906/608be9db0003468b034356b14ecbccf5.ts
+苍井空,p2p://45.86.67.154:9906/608856240007a22a0f42e6072d5e291b.ts
+惊艳电影,p2p://45.86.67.154:9906/608858090008d7df0f4a4cdf0b6a378b.ts
+彩虹E台,p2p://45.86.67.154:9906/6088577b000703e70f4821b7caacc0c8.ts
+天堂素人约啪,p2p://45.86.67.154:9906/608855f5000334d30f422d4d37584dc1.ts
+香蕉台,p2p://45.86.67.154:9906/608858b300032d400f4ce37b5b3165d3.ts
+潘多拉完美,p2p://45.86.67.154:9906/60885835000df6a60f4afa0edd0a04e6.ts
+大神猫先生,p2p://45.86.67.154:9906/6088574f000726f40f4775e0effc3aef.ts
+HOT,p2p://45.86.67.154:9906/608be96500093cd403418b48bfc325c1.ts
+彩虹电影,p2p://45.86.67.154:9906/608be98b000658ff03421efa31b1b7e3.ts
+LOOK,p2p://45.86.67.154:9906/608be9b2000514b40342b6ffdcae6771.ts
+波多野结衣,p2p://45.86.67.154:9906/6088554b000a8bdf0f3f971e47c8b07c.ts
+Heyzo无码,p2p://45.86.67.154:9906/608bea27000c60bd034481e611c23d95.ts
+人妻斩,p2p://45.86.67.154:9906/608bea4b000e85d903450f12cb48a2ef.ts
+猫步毒药,p2p://45.86.67.154:9906/608bea74000ea3350345af42d8d8b0a6.ts
+人妻熟女,p2p://45.86.67.154:9906/608bea960002cfd30346310ba8ab00a1.ts
+素人动画,p2p://45.86.67.154:9906/608beab8000eeeb70346b8f59110da07.ts
+XXXAV,p2p://45.86.67.154:9906/608beae40002b5d4034761b4ed6c00f0.ts
+黑珍珠,p2p://45.86.67.154:9906/608beb520004891c03490fdc097d7e4c.ts
+色情世界,p2p://45.86.67.154:9906/608beb7600096d8803499dbcd1c788c1.ts
+人妻出轨,p2p://45.86.67.154:9906/608bec3e00060395034caa1cf343991f.ts
+阿拉伯情色,p2p://45.86.67.154:9906/608bec620007bc02034d372d176b1cdf.ts
+啄木鸟,p2p://45.86.67.154:9906/608bec97000589c3034e05a5aa2c6188.ts
+Hi Play,p2p://45.86.67.154:9906/608beb280004836603486bcab7d4e831.ts
+古川伊织,p2p://45.86.67.154:9906/608becd9000336e2034f06ddc00031d3.ts
+无码破解,p2p://45.86.67.154:9906/608bed3c00098d4203508b344ba5ff1e.ts
+迷奸无码,p2p://45.86.67.154:9906/608c0034000ce114039aa4ce516a1ea7.ts
+经典三级,p2p://45.86.67.154:9906/608c0057000ef9b8039b2e1056ace6eb.ts
+华男洋妞,p2p://45.86.67.154:9906/608c0090000eebf9039c0cb440ccacea.ts
+麻豆大番,p2p://45.86.67.154:9906/608c00b600071408039c9f226307f8cb.ts
+麻豆导演,p2p://45.86.67.154:9906/608c00e10007e058039d474f3d9f7f96.ts
+麻豆外番,p2p://45.86.67.154:9906/608c0103000de280039dcda8c9f55a82.ts
+麻豆台湾,p2p://45.86.67.154:9906/608c01a70005cbc903a04c36fe07e835.ts
+91老金,p2p://45.86.67.154:9906/608c01d60003609403a103308739719a.ts
+鸭总侦探,p2p://45.86.67.154:9906/608c01fd000c740003a19ddacc1c7d5f.ts
+金三角猎艳,p2p://45.86.67.154:9906/608c02220006ded803a22cf5cf1c760a.ts
+黑人干翻天,p2p://45.86.67.154:9906/608c0247000bbce203a2bebca4cdb2c9.ts
+千人斩,p2p://45.86.67.154:9906/608c027c000c450603a38de66db6a92d.ts
+小宝寻花,p2p://45.86.67.154:9906/608c02a30002b14603a423cb81258ba5.ts
+午夜寻花,p2p://45.86.67.154:9906/608c02c80004e1aa03a4b4e26241a1bc.ts
+男爵探花,p2p://45.86.67.154:9906/608c02f80006677903a570c674c16ef7.ts
+大陆迷奸,p2p://45.86.67.154:9906/608c031d000bbb8103a602ab387ff987.ts
+SM西贡女,p2p://45.86.67.154:9906/608c034100080f6903a68e5b1f24e142.ts
+PsychopornTW,p2p://45.86.67.154:9906/608c037b0005e54c03a7705dc4f2e0d2.ts
+俄罗斯毛子,p2p://45.86.67.154:9906/608c03bd000d5ca203a8741602ffe939.ts
+美国家庭,p2p://45.86.67.154:9906/608c03e2000dff3203a904c8e2c1604e.ts
+欧美艺术,p2p://45.86.67.154:9906/608c0408000d5fc803a9990f5e1be750.ts
+果冻传媒,p2p://45.86.67.154:9906/608c0435000affe303aa483b0c83ac05.ts
