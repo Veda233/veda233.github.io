@@ -3,5 +3,5 @@
 华视,rtmp://59.124.75.130/sat/tv112
 台视,rtmp://59.124.75.130/sat/tv071
 民视,rtmp://59.124.75.130/sat/tv052
-中視,p2p://fccsovh.pvbox.live:18912/5b14095f00075e71372e2240965ed494
+中視,p2p://fccsovh.pvbox.live:18912/5b14095f00075e71372e2240965ed494#p2p://fccseuro.pvbox.live:18912/5c2dd743000549bf6154a8985cd9ca6d
 三立臺灣,P2p://fccseuro.pvbox.live:18912/5c2dd74a000cbd46698addb74d61afbb.ts
