@@ -1,2 +1,2 @@
 台灣1,#genre#
-三立臺灣,p2p://fccseuro.pvbox.live:18912/5c2dd74a000cbd46698addb74d61afbb#mitv://fccseuro.pvbox.live:18912/5b1409f100088a843e552539cfdf3021#mitv://fccsovh.pvbox.live:18912/5c2dd74a000cbd46698addb74d61afbb
+三立臺灣,p2p://fccseuro.pvbox.live:18912/5c2dd74a000cbd46698addb74d61afbb#p2p://fccseuro.pvbox.live:18912/5b1409f100088a843e552539cfdf3021#p2p://fccsovh.pvbox.live:18912/5c2dd74a000cbd46698addb74d61afbb
