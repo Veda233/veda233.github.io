@@ -1,4 +1,4 @@
-台灣,#genre#
+$c_start 台湾$c_end
 民视台湾,mitv://ns2.hellotvvod.com:9906/0eb9f7a0d7054316834ce558a4d3a039.ts
 中视,mitv://ns2.hellotvvod.com:9906/b38bd7674fa04ed7bb60a3e5b4c34bab.ts
 中天新闻,mitv://ns2.hellotvvod.com:9906/ed541615b0a14a8e8e32769d2aa908c2.ts
