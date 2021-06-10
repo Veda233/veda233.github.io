@@ -3,7 +3,7 @@ $c_start 台湾$c_end
 华视,rtmp://59.124.75.130/sat/tv112
 台视,rtmp://59.124.75.130/sat/tv071
 民视,rtmp://59.124.75.130/sat/tv052
-華視,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-501&token=gaa222
-民視,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-300&token=gaa222
-民視第一台,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-301&token=gaa222
-民視新聞台,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-302&token=gaa222
+11,rtmp://59.124.75.130/sat/tv092
+12,rtmp://59.124.75.130/sat/tv093
+13,rtmp://59.124.75.130/sat/tv094
+14,rtmp://59.124.75.130/sat/tv095
