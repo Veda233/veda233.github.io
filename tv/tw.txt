@@ -5,3 +5,57 @@
 民视,rtmp://59.124.75.130/sat/tv052
 中視,p2p://fccsovh.pvbox.live:18912/5b14095f00075e71372e2240965ed494#p2p://fccseuro.pvbox.live:18912/5c2dd743000549bf6154a8985cd9ca6d
 三立臺灣,P2p://fccseuro.pvbox.live:18912/5c2dd74a000cbd46698addb74d61afbb.ts
+测试,#genre#
+纬来体育,http://xiaorongh.usa7.345888.xyz/SBTV/hstv.php?id=52#http://xiaorongu.usa7.345888.xyz/iptv/ub.php?id=52
+FOX Sport1,http://xiaorongh.usa7.345888.xyz/SBTV/hstv.php?id=1131 #http://xiaorongu.usa7.345888.xyz/iptv/ub.php?id=1131 
+FOX Sport2,http://xiaorongh.usa7.345888.xyz/SBTV/hstv.php?id=1132 #http://xiaorongu.usa7.345888.xyz/iptv/ub.php?id=1132 
+FOX Sport3,http://xiaorongh.usa7.345888.xyz/SBTV/hstv.php?id=376 #http://xiaorongu.usa7.345888.xyz/iptv/ub.php?id=376 
+Eleven Sport1,http://xiaorongh.usa7.345888.xyz/SBTV/hstv.php?id=1133 #http://xiaorongu.usa7.345888.xyz/iptv/ub.php?id=1133 
+Eleven Sport2,http://xiaorongh.usa7.345888.xyz/SBTV/hstv.php?id=301 #http://xiaorongu.usa7.345888.xyz/iptv/ub.php?id=301 
+Z频道,http://xiaorongh.usa7.345888.xyz/SBTV/hstv.php?id=1130#http://xiaorongu.usa7.345888.xyz/iptv/ub.php?id=1130
+皇马足球,http://xiaorongh.usa7.345888.xyz/SBTV/hstv.php?id=20#http://xiaorongu.usa7.345888.xyz/iptv/ub.php?id=20
+博斯无限,http://xiaorongh.usa7.345888.xyz/SBTV/hstv.php?id=381#http://xiaorongu.usa7.345888.xyz/iptv/ub.php?id=381
+博斯无限2,http://xiaorongh.usa7.345888.xyz/SBTV/hstv.php?id=426#http://xiaorongu.usa7.345888.xyz/iptv/ub.php?id=426
+博斯网球,http://xiaorongh.usa7.345888.xyz/SBTV/hstv.php?id=498#http://xiaorongu.usa7.345888.xyz/iptv/ub.php?id=498
+博斯高球1,http://xiaorongh.usa7.345888.xyz/SBTV/hstv.php?id=377#http://xiaorongu.usa7.345888.xyz/iptv/ub.php?id=377
+博斯高球2,http://xiaorongh.usa7.345888.xyz/SBTV/hstv.php?id=378#http://xiaorongu.usa7.345888.xyz/iptv/ub.php?id=378
+Sky SportsMainEvent,http://xiaorongh.usa7.345888.xyz/SBTV/hstv.php?id=177 #http://xiaorongu.usa7.345888.xyz/iptv/ub.php?id=177 
+博斯魅力,http://xiaorongh.usa7.345888.xyz/SBTV/hstv.php?id=175#http://xiaorongu.usa7.345888.xyz/iptv/ub.php?id=175
+博斯运动1,http://xiaorongh.usa7.345888.xyz/SBTV/hstv.php?id=379#http://xiaorongu.usa7.345888.xyz/iptv/ub.php?id=379
+博斯运动2,http://xiaorongh.usa7.345888.xyz/SBTV/hstv.php?id=380#http://xiaorongu.usa7.345888.xyz/iptv/ub.php?id=380
+卫视体育Star Sports,http://xiaorongh.usa7.345888.xyz/SBTV/hstv.php?id=79t #http://xiaorongu.usa7.345888.xyz/iptv/ub.php?id=79t 
+TRACE Sport Stars,http://xiaorongh.usa7.345888.xyz/SBTV/hstv.php?id=1037 #http://xiaorongu.usa7.345888.xyz/iptv/ub.php?id=1037 
+智林体育,http://xiaorongh.usa7.345888.xyz/SBTV/hstv.php?id=82#http://xiaorongu.usa7.345888.xyz/iptv/ub.php?id=82
+时尚运动X,http://xiaorongh.usa7.345888.xyz/SBTV/hstv.php?id=71#http://xiaorongu.usa7.345888.xyz/iptv/ub.php?id=71
+ESPN-News,http://xiaorongh.usa7.345888.xyz/SBTV/hstv.php?id=148#http://xiaorongu.usa7.345888.xyz/iptv/ub.php?id=148
+FOX-Sports1,http://xiaorongh.usa7.345888.xyz/SBTV/hstv.php?id=151#http://xiaorongu.usa7.345888.xyz/iptv/ub.php?id=151
+FOX-Sports2,http://xiaorongh.usa7.345888.xyz/SBTV/hstv.php?id=152#http://xiaorongu.usa7.345888.xyz/iptv/ub.php?id=152
+NBC-HD,http://xiaorongh.usa7.345888.xyz/SBTV/hstv.php?id=154#http://xiaorongu.usa7.345888.xyz/iptv/ub.php?id=154
+NBC-Golf,http://xiaorongh.usa7.345888.xyz/SBTV/hstv.php?id=155#http://xiaorongu.usa7.345888.xyz/iptv/ub.php?id=155
+NBA-TV,http://xiaorongh.usa7.345888.xyz/SBTV/hstv.php?id=153#http://xiaorongu.usa7.345888.xyz/iptv/ub.php?id=153
+ESPN-HD,http://xiaorongh.usa7.345888.xyz/SBTV/hstv.php?id=147#http://xiaorongu.usa7.345888.xyz/iptv/ub.php?id=147
+BT Sport ESPN,http://xiaorongh.usa7.345888.xyz/SBTV/hstv.php?id=168 #http://xiaorongu.usa7.345888.xyz/iptv/ub.php?id=168 
+BT Sport2,http://xiaorongh.usa7.345888.xyz/SBTV/hstv.php?id=166 #http://xiaorongu.usa7.345888.xyz/iptv/ub.php?id=166 
+BT Sport3,http://xiaorongh.usa7.345888.xyz/SBTV/hstv.php?id=167 #http://xiaorongu.usa7.345888.xyz/iptv/ub.php?id=167 
+BT Sport 1,http://xiaorongh.usa7.345888.xyz/SBTV/hstv.php?id=165 #http://xiaorongu.usa7.345888.xyz/iptv/ub.php?id=165 
+ESPN-U,http://xiaorongh.usa7.345888.xyz/SBTV/hstv.php?id=170#http://xiaorongu.usa7.345888.xyz/iptv/ub.php?id=170
+Sky Sport2,http://xiaorongh.usa7.345888.xyz/SBTV/hstv.php?id=171 #http://xiaorongu.usa7.345888.xyz/iptv/ub.php?id=171 
+Sky Sports1,http://xiaorongh.usa7.345888.xyz/SBTV/hstv.php?id=172 #http://xiaorongu.usa7.345888.xyz/iptv/ub.php?id=172 
+Sky Sports Action,http://xiaorongh.usa7.345888.xyz/SBTV/hstv.php?id=178 #http://xiaorongu.usa7.345888.xyz/iptv/ub.php?id=178 
+Sky Sports Cricket,http://xiaorongh.usa7.345888.xyz/SBTV/hstv.php?id=179 #http://xiaorongu.usa7.345888.xyz/iptv/ub.php?id=179 
+Sky Sports Golf,http://xiaorongh.usa7.345888.xyz/SBTV/hstv.php?id=180 #http://xiaorongu.usa7.345888.xyz/iptv/ub.php?id=180 
+Sky Sports PremierLeague,http://xiaorongh.usa7.345888.xyz/SBTV/hstv.php?id=181 #http://xiaorongu.usa7.345888.xyz/iptv/ub.php?id=181 
+Sky Sports F1,http://xiaorongh.usa7.345888.xyz/SBTV/hstv.php?id=182 #http://xiaorongu.usa7.345888.xyz/iptv/ub.php?id=182 
+Sky Sport3,http://xiaorongh.usa7.345888.xyz/SBTV/hstv.php?id=183 #http://xiaorongu.usa7.345888.xyz/iptv/ub.php?id=183 
+ELTA体育1,http://xiaorongh.usa7.345888.xyz/SBTV/hstv.php?id=192#http://xiaorongu.usa7.345888.xyz/iptv/ub.php?id=192
+ELTA体育2,http://xiaorongh.usa7.345888.xyz/SBTV/hstv.php?id=193#http://xiaorongu.usa7.345888.xyz/iptv/ub.php?id=193
+ELTA体育3,http://xiaorongh.usa7.345888.xyz/SBTV/hstv.php?id=194#http://xiaorongu.usa7.345888.xyz/iptv/ub.php?id=194
+jsport1,http://xiaorongh.usa7.345888.xyz/SBTV/hstv.php?id=129#http://xiaorongu.usa7.345888.xyz/iptv/ub.php?id=129
+jsport2,http://xiaorongh.usa7.345888.xyz/SBTV/hstv.php?id=130#http://xiaorongu.usa7.345888.xyz/iptv/ub.php?id=130
+jsport3,http://xiaorongh.usa7.345888.xyz/SBTV/hstv.php?id=131#http://xiaorongu.usa7.345888.xyz/iptv/ub.php?id=131
+jsport4,http://xiaorongh.usa7.345888.xyz/SBTV/hstv.php?id=132#http://xiaorongu.usa7.345888.xyz/iptv/ub.php?id=132
+Astro Sp1,http://xiaorongh.usa7.345888.xyz/SBTV/hstv.php?id=444t #http://xiaorongu.usa7.345888.xyz/iptv/ub.php?id=444t 
+Astro Sp2,http://xiaorongh.usa7.345888.xyz/SBTV/hstv.php?id=445t #http://xiaorongu.usa7.345888.xyz/iptv/ub.php?id=445t 
+Astro Sp3,http://xiaorongh.usa7.345888.xyz/SBTV/hstv.php?id=446t #http://xiaorongu.usa7.345888.xyz/iptv/ub.php?id=446t 
+Astro Sp4,http://xiaorongh.usa7.345888.xyz/SBTV/hstv.php?id=447t #http://xiaorongu.usa7.345888.xyz/iptv/ub.php?id=447t 
+WWE,http://xiaorongh.usa7.345888.xyz/SBTV/hstv.php?id=1081#http://xiaorongu.usa7.345888.xyz/iptv/ub.php?id=1081
