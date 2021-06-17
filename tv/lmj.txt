@@ -4,7 +4,7 @@ $c_start 台湾$c_end
 中視,mitv://fccsovh.pvbox.live:18912/5c2dd743000549bf6154a8985cd9ca6d#mitv://fccseuro.pvbox.live:18912/5c2dd743000549bf6154a8985cd9ca6d#mitv://fccseuro.pvbox.live:18912/5b14095f00075e71dbcaee608f5a7f3c#mitv://fccsovh.pvbox.live:18912/5c72484b000b1d091d51edb7087b7686#mitv://fccsovh.pvbox.live:18912/5c2dd743000549bf6154a8985cd9ca6d#rtmp://59.124.75.130/sat/tv091#p2p://fccsovh.pvbox.live:18912/5b14095f00075e71372e2240965ed494#p2p://fccseuro.pvbox.live:18912/5c2dd743000549bf6154a8985cd9ca6d
 華視,mitv://fccsovh.pvbox.live:18912/5c2dd7470006324161ec704805b9e422#rtmp://59.124.75.130/sat/tv112
 公視,mitv://fccseuro.pvbox.live:18912/5b1409600001a0b2b34e074d843505c0#mitv://fccsovh.pvbox.live:18912/5b1409600001a0b2b34e074d843505c0
-三立臺灣,mitv://fccseuro.pvbox.live:18912/5c2dd74a000cbd46698addb74d61afbb#mitv://fccseuro.pvbox.live:18912/5b1409f100088a843e552539cfdf3021#mitv://fccsovh.pvbox.live:18912/5c2dd74a000cbd46698addb74d61afbb#P2p://fccseuro.pvbox.live:18912/5c2dd74a000cbd46698addb74d61afbb.ts
+三立臺灣,mitv://fccseuro.pvbox.live:18912/5c2dd74a000cbd46698addb74d61afbb#mitv://fccseuro.pvbox.live:18912/5b1409f100088a843e552539cfdf3021#mitv://fccsovh.pvbox.live:18912/5c2dd74a000cbd46698addb74d61afbb#P2p://fccseuro.pvbox.live:18912/5c2dd74a000cbd46698addb74d61afbb.ts#tvbus://5bs16MgndrbAVgewPk3FnyB65GFG34CUgswUfMxVirdmUUJxnuv7Rx2Ly7CqF
 $c_start 戏剧$c_end
 ELTA影劇,mitv://fccseuro.pvbox.live:18912/5b1409dc0006a1ca305641ab9696976b#mitv://fccsovh.pvbox.live:18912/5b1409dc0006a1ca305641ab9696976b
 東森戲劇,mitv://fccseuro.pvbox.live:18912/5b1409f20000320bffd8fe47d4aa4282#mitv://fccseuro.pvbox.live:18912/5c724882000704081d52c386798d4d25#mitv://fccsovh.pvbox.live:18912/5b1409f20000320bffd8fe47d4aa4282
@@ -13,3 +13,12 @@ TVBS歡樂,mitv://fccseuro.pvbox.live:18912/5b1409600006657bf3521814c47521af#mit
 緯來戲劇,mitv://fccseuro.pvbox.live:18912/5b1409f3000a72b5e945fde38f88c8aa#mitv://fccseuro.pvbox.live:18912/5c72488e000bae061d52f38e705751dd#mitv://fccsovh.pvbox.live:18912/5b1409f3000a72b5e945fde38f88c8aa
 $c_start 体育$c_end
 纬来体育,rtmp://59.124.75.130/sat/tv721#rtmp://59.124.75.130:1935/sat/tv721#mitv://fccseuro.pvbox.live:18912/5c2dd76e00049e333b9b846b79e65ed3#mitv://fccseuro.pvbox.live:18912/5b140921000be1448823410c2ff3af66#mitv://fccseuro.pvbox.live:18912/5c7249e60007ce3b1d5832543a7916ad#mitv://fccsovh.pvbox.live:18912/5c2dd76e00049e333b9b846b79e65ed3
+$c_start 测试$c_end
+民視,http://185.207.176.189:8080/channels/tw-300/playlist.m3u8
+民視,http://185.207.176.189:8080/channels/tw-301/playlist.m3u8
+民視,http://185.207.176.189:8080/channels/tw-302/playlist.m3u8
+中視新聞,http://185.207.176.189:8080/channels/tw-101/playlist.m3u8
+中視,http://185.207.176.189:8080/channels/tw-100/playlist.m3u8
+中視经典,http://185.207.176.189:8080/channels/tw-102/playlist.m3u8
+中視精彩,http://185.207.176.189:8080/channels/tw-103/playlist.m3u8
+華視,http://185.207.176.189:8080/channels/tw-501/playlist.m3u8
