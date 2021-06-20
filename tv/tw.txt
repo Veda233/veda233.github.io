@@ -5,6 +5,7 @@
 民视,rtmp://59.124.75.130/sat/tv052
 中視,p2p://fccsovh.pvbox.live:18912/5b14095f00075e71372e2240965ed494#p2p://fccseuro.pvbox.live:18912/5c2dd743000549bf6154a8985cd9ca6d
 三立臺灣,P2p://fccseuro.pvbox.live:18912/5c2dd74a000cbd46698addb74d61afbb.ts
+纬来体育,rtmp://59.124.75.130/sat/tv721
 测试,#genre#
 纬来体育,http://xiaorongh.usa7.345888.xyz/SBTV/hstv.php?id=52#http://xiaorongu.usa7.345888.xyz/iptv/ub.php?id=52
 FOX Sport1,http://xiaorongh.usa7.345888.xyz/SBTV/hstv.php?id=1131 #http://xiaorongu.usa7.345888.xyz/iptv/ub.php?id=1131 
