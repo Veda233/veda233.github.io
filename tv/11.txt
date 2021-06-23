@@ -8,10 +8,4 @@ $c_start 台湾$c_end
 13,rtmp://59.124.75.130/sat/tv052
 14,rtmp://59.124.75.130/sat/tv053
 $c_start 测试$c_end
-三立臺灣,P2p://fccsovh.pvbox.live:18912/5c2dd74a000cbd46698addb74d61afbb#P2p://fccsovh.pvbox.live:18912/5b1409f100088a843e552539cfdf3021#P2p://fccseuro.pvbox.live:18912/5c2dd74a000cbd46698addb74d61afbb
-民視,P2p://fccsovh.pvbox.live:18912/5c2dd73c0002b6076c316efef65b6881#P2p://fccsovh.pvbox.live:18912/5b1409690006a24a6938240e2c12a4c4#P2p://fccseuro.pvbox.live:18912/5c72483f0003db4b1d51bcf349367c26#P2p://fccseuro.pvbox.live:18912/5c2dd73c0002b6076c316efef65b6881
-台视 HD,P2p://fccseuro.pvbox.live:18912/5b14095f000570be7d87f46e1fdec9ae#P2p://fccsovh.pvbox.live:18912/5b14095f000570be7d87f46e1fdec9ae
-大愛,P2p://fccsovh.pvbox.live:18912/5b1409db0005716852e798a18129af98#P2p://fccseuro.pvbox.live:18912/5b1409db0005716852e798a18129af98
-中視,P2p://fccsovh.pvbox.live:18912/5c2dd743000549bf6154a8985cd9ca6d#P2p://fccsovh.pvbox.live:18912/5b14095f00075e71dbcaee608f5a7f3c#P2p://fccsovh.pvbox.live:18912/5c72484b000b1d091d51edb7087b7686#P2p://fccseuro.pvbox.live:18912/5c2dd743000549bf6154a8985cd9ca6d
-華視,P2p://fccsovh.pvbox.live:18912/5c2dd7470006324161ec704805b9e422#P2p://fccsovh.pvbox.live:18912/5b14095f000efa0ea879c11942a356bd#P2p://fccseuro.pvbox.live:18912/5c72484f000e498b1d51fe2201d92dd3#P2p://fccseuro.pvbox.live:18912/5c2dd7470006324161ec704805b9e422
-公視,P2p://fccseuro.pvbox.live:18912/5b1409600001a0b2b34e074d843505c0#P2p://fccsovh.pvbox.live:18912/5b1409600001a0b2b34e074d843505c0
+三立臺灣,p2p://fccsovh.pvbox.live:18912/5c2dd74a000cbd46698addb74d61afbb#p2p://fccsovh.pvbox.live:18912/5b1409f100088a843e552539cfdf3021#p2p://fccseuro.pvbox.live:18912/5c2dd74a000cbd46698addb74d61afbb
