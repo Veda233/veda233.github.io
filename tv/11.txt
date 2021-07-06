@@ -8,4 +8,4 @@ $c_start 台湾$c_end
 13,rtmp://59.124.75.130/sat/tv052
 14,rtmp://59.124.75.130/sat/tv053
 $c_start 测试$c_end
-三立臺灣,p2p://fccsovh.pvbox.live:18912/5c2dd74a000cbd46698addb74d61afbb#p2p://fccsovh.pvbox.live:18912/5b1409f100088a843e552539cfdf3021#p2p://fccseuro.pvbox.live:18912/5c2dd74a000cbd46698addb74d61afbb
+三立臺灣,p8p://0198.02686.cc:16871/5d1a69ae00025bef11bdc56ba098b443.ts
