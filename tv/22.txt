@@ -1,4 +1,4 @@
-tvbus新聞台,#genre#
+$c_start tvbus新聞台$c_end
 TVBS新聞1,tvbus://5LFtjMDFSxRdXcHM8iCW5WzgMDKBSJcWtkrKq4dbcpkbL7YrrQTBfypj1MAJB
 TVBS新聞2,tvbus://7CyU6ZP3BBpcF91MruJCdXjLyFZeSniyanTBASwG47S3fLTQx9 
 TVBS新聞3,tvbus://6KxfkSoU56HDWea64uocvh7CTtc4Wq67mqQzw24vWqBavv19xEHDToAGitsG8
@@ -33,7 +33,7 @@ TVBS新聞4,tvbus://5TZxcd2Pzyvmc2n5B54G2QaVmrJdb3JPtVNaeg3gLBw2aqNtGM7Lt5PJ4Es7
 中視經典,tvbus://5PwKTDayRaDGquk9CquiMg69CwmNBQzm1KQubFWpz9fvG8ETTG9Scb2QRPMJE
 台視新聞,tvbus://6ZmEsG1fAYZVjYz1Zv4p9b3tjEiYuxHqbe6QBtmNwtKuFCcfcxV7iM1snBVx9
 
-tvbus體育台,#genre#
+$c_start tvbus體育台$c_end
 愛爾達體育1台1,tvbus://5NTfiiK2rBLvUCEpGRuWd4zKchfZoMGpK6Be9BsWUzyytKqNtpw8bWK7tZyjb
 愛爾達體育1台2,tvbus://6KhXj8xz99EuGM9rd2eDLTdMpPh4TH6ZumiQ1x4ehChL1KmSQmqDezSjQMq5C
 愛爾達體育1台3,tvbus://5vvVp9p6pHnRoVko5KUH2jt1P3rAUzQs7a1px4auhe5DZCkMbG79vqu8LJH2t
@@ -63,7 +63,7 @@ FOX_SPORTS3,tvbus://6HB6UMpUbJzpUEwF6YbaRxMxw2muZ2WVyNFyU7mRoWgh9WzSFpnVhgtMSNRr
 WWE1,tvbus://69jvf5kMznUvkAByoJzjszmeEKiXzzgP1JXWLHUqwH9DZJUEqxQ2NbpwzyvE3
 WWE2,tvbus://68G5dBjj8vZjkyfVp58528uL7dmseLZqDXBcKwFUQSPgXsc6zKzrWFCiKjnsi
 
-tvbus電影台,#genre#
+$c_start tvbus電影台$c_end
 星衛電影台1,tvbus://5ixd4eARkmWRUdmjnAu17xUsC7ngBWDaxsmgk4LcxkFCkXELGn8CrfBYQijmA
 星衛電影台2,tvbus://8PYuWLSUxaWWmToyETBUGr32gQJRDg9K11ix8evcc7nB5dhELy
 星衛電影台3,tvbus://6HEgk6v2dcFEp48HohXkhC73Pdye4wZ1Mgws8KK833aq6rAzythmo9Z4ZDnP9
@@ -125,7 +125,7 @@ CINEMAX_HD2,tvbus://5Qw9N9pt5zcsdoWSupAV43E6yYLF7RxVBn2zVCXW6uRs16gdzqb1AzSKUPEj
 KIX動作電影1,tvbus://5rYdSoNssjhawwp6RDjSWBTp2BUnaCfTJ2raTAi4DMfN2F1YNxwq9J8yesBri
 KIX動作電影2,tvbus://5pbjjt9rwu6Y3WEGT7jkBZb8xgLFVDfGmqThLudHBGSouMXgoivDHFu8pM8xD
 
-tvbus卡通台,#genre#
+$c_start tvbus卡通台$c_end
 MOMO親子1,tvbus://5X5Hd9WdA5SySjWsbASTc8rbcxfcYewnPnvy59KegMAhWFrA16sHebm9L8Xqn
 MOMO親子2,tvbus://8LYzzxsK9M826tCuaepTTrHW5xAvwogA53NcLdYWGno72Xx5nF
 MOMO親子3,tvbus://5ZmNFNkNNWLmV5r4xXWWQe7VWgsTVcX7Rn2jYap433Kjmh46SHNGxiAdKMn7h
@@ -148,7 +148,7 @@ Disney_JR,tvbus://5YHwghNNK1KAiXb47sbDT6XeLighHmSGqALZWZX1kygLJ1A3ctD6VZm7g6CqP
 DISNEY_XD|HD,tvbus://5oT7giJujzA7oWqXMkzwHz1NtvNgaDkg8S6rXQMrmCBSXHRE9xZSuHMpvPjvo
 DISNEY_JR|HD,tvbus://5coez2C41dWwXDWVnJneD11c5Xj5qqQodBHgzvHwLsgfvQ8mBi7SDs9ou2Ntw
 
-tvbus綜藝台,#genre#
+$c_start tvbus綜藝台$c_end
 緯來日本1,tvbus://6aXrMD1Fq4WUmnGWi2jLES3532SG84b4FNawKcrGXERkP2ytUfjZWGv2QjPP8
 緯來日本2,tvbus://6uRaEVB6zUUTj8hPENXF15Xb888X3y3Yrhj7HjZubfA18jRhCu 
 緯來日本3,tvbus://6HF1yWQYSSGjGvak1fNJHay9UmLQbAZh7MK2bmbZhS7sxF75ngzTnEP4Lj99a
@@ -243,7 +243,7 @@ Z頻道,tvbus://6R1Mb1nKR5CvDNMeoPgdwFbgR4hAT8GoYmjAmg71KpcS1CnCZNqcsb5gvj6vq
 愛奇藝,tvbus://66FRpocmtD6gMwzcvdFBh66GfamAqyNA5s1b9FrEKnuUnjQXsQn7zs6YAR55g
 tvN,tvbus://65KYwFzVqS88CUAqVYKj9ymf7R7CLMNHhbVB7DnYMHezRAzZLkEWqrFpkah2N
 
-629台灣源,#genre#
+$c_start 629台灣源$c_end
 TVBS新聞台1,http://198.16.106.62:8278/streams/d/tvbs_n/playlist.m3u8
 TVBS新聞台2,http://198.16.106.62:8278/tvbs_n/playlist.m3u8?tid=m4a218f9aa395&ct=18335&tsum=363605ee081cb965cc0385c3f855a7e3
 三立新聞,http://198.16.106.62:8278/streams/d/sanlinews_zero/playlist.m3u8
@@ -288,7 +288,7 @@ CBeebies,http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
 Disney Channel,http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
 Disney Junior,http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
 
-629rtmp源161,#genre#
+$c_start 629rtmp源161$c_end
 民視1,rtmp://161.202.204.248/sat/tv052
 民視2,rtmp://161.202.204.248:1935/sat/tv051
 台視1,rtmp://161.202.204.248/sat/tv071
@@ -314,7 +314,7 @@ ELEVEN+2,rtmp://161.202.204.248/sat/md021
 ELEVEN2,rtmp://161.202.204.248/sat/md011
 愛爾達體育3台,rtmp://161.202.204.248/sat/md051
 
-629rtmp源59,#genre#
+$c_start 629rtmp源59$c_end
 民視,rtmp://59.124.75.153/sat/tv051
 台視,rtmp://59.124.75.153/sat/tv071
 中視,rtmp://59.124.75.153/sat/tv091
@@ -337,7 +337,7 @@ ELEVEN+,rtmp://59.124.75.153/sat/md021
 ELEVEN2,rtmp://59.124.75.153/sat/md011
 愛爾達體育3台,rtmp://59.124.75.153/sat/md051
 
-708mitv源,#genre#
+$c_start 708mitv源$c_end
 TVBS新聞,p5p://45.92.126.18:9906/60435300000abe3e06ef082bf48727a4.ts
 壹電視新聞台,p5p://45.92.126.18:9906/6069902f0003db1b16fb1d83c7d47b04.ts
 東森新聞,p5p://45.92.126.18:9906/60434e0b0003696e06dba942fc6b06e1.ts
@@ -548,7 +548,7 @@ Outdoor,p5p://45.92.126.18:9906/60434713000a12a206c07237b306369a.ts
 影迷數位紀實台,p5p://45.92.126.18:9906/60494398000c2ccb1442ef592de01971.ts
 歷史頻道,p5p://45.92.126.18:9906/6049468f0008dae6144e835756f6d068.ts
 
-mitv源,#genre#
+$c_start mitv源$c_end
 TVBS新聞,mitv://fccsovh.pvbox.live:18912/5c2dd76300095ef4ca7620ece66109ec.ts,mitv://fccsovh.pvbox.live:18912/5b1409600008c73bd46bfb2af1f5ae94.ts,mitv://fccseuro.pvbox.live:18912/5c7249c2000e510f1d57a75a30592ee2.ts,mitv://fccseuro.pvbox.live:18912/5c2dd76300095ef4ca7620ece66109ec.ts
 壹電視新聞,mitv://fccsovh.pvbox.live:18912/5c2dd75c000b56813bdbfb1808231457.ts,mitv://fccsovh.pvbox.live:18912/5b14094000088a467b4c607ca6b96c9e.ts,mitv://fccseuro.pvbox.live:18912/5c724897000cb1861d5316f515e3763e.ts,mitv://fccseuro.pvbox.live:18912/5c2dd75c000b56813bdbfb1808231457.ts
 年代新聞,mitv://fccsovh.pvbox.live:18912/5c2dd76000032856525d0ee781504477.ts,mitv://fccsovh.pvbox.live:18912/5b1409fd000a7269184987550f3266b5.ts,mitv://fccseuro.pvbox.live:18912/5c72489b000f0c1fe54d8ea55ffd9a5c.ts,mitv://fccseuro.pvbox.live:18912/5c2dd76000032856525d0ee781504477.ts
@@ -660,7 +660,7 @@ fox movie,mitv://fccseuro.pvbox.live:18912/5b3c4f9c000341469570bb9241e0decd.ts,m
 ASN_HD,mitv://118.163.81.13:8911/59ec2b0f000175d8b9be48953bd0c3c2.ts,mitv://fccsovh.pvbox.live:18912/59ec2b0f000175d8b9be48953bd0c3c2.ts
 AXN,mitv://fccsovh.pvbox.live:18912/5b140922000388777809b9c6f83f6c7c.ts,mitv://fccseuro.pvbox.live:18912/5b140922000388777809b9c6f83f6c7c.ts
 
-新聞台,#genre#
+$c_start 新聞台$c_end
 TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 壹新聞台,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 壹新聞台2,http://stream.nexttv.com.tw/n001/playlist.m3u8
@@ -676,7 +676,7 @@ TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 中視新聞,http://seb.sason.top/sc/zsxw_fhd.m3u8
 東森財經,http://seb.sason.top/sc/dscjxw_fhd.m3u8
 
-綜藝台,#genre#
+$c_start 綜藝台$c_end
 民視,http://seb.sason.top/ptv/ftv.php?id=ms
 民視第一,http://seb.sason.top/ptv/ftv.php?id=dy
 民視台灣,http://seb.sason.top/ptv/ftv.php?id=tw
@@ -695,18 +695,19 @@ TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 原住民電視,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 紅牛REDBULL TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-電影台,#genre#
+
+$c_start 電影台$c_end
 周星馳電影,http://42.81.144.99/live.cache.cmvideo.cn/wd_r3/virtuallive/5100144102/150/index.m3u8?&encrypt=1
 劉德華電影,http://42.81.144.99/live.cache.cmvideo.cn/wd_r3/virtuallive/5102354855/150/index.m3u8?&&encrypt=1
 成龍電影,http://42.81.144.99/live.cache.cmvideo.cn/wd_r2/virtuallive/5102010211/150/index.m3u8?&encrypt=1
 張國榮電影,http://42.81.144.99/live.cache.cmvideo.cn/wd_r3/virtuallive/5102354727/150/index.m3u8?&encrypt=1
 古天樂電影,http://42.81.144.99/live.cache.cmvideo.cn/wd_r1/virtuallive/5101000744/150/index.m3u8?&encrypt=1
 
-卡通台,#genre#
+$c_start 卡通台$c_end
 靖洋卡通,http://61.58.60.230:9319/live/206.m3u8
 靖天卡通,http://61.58.60.230:9319/live/207.m3u8
 
-18+_711211,#genre#
+$c_start 18+_711211$c_end
 JSTAR極限台,p5p://45.92.126.18:9906/6069472f000e3bd815ddf82b31da15c3.ts
 香草天道,p5p://45.92.126.18:9906/604ad659000311780038c940119c842a.ts
 HAPPY,p5p://45.92.126.18:9906/6069464e000590c215da870b87301a7e.ts
@@ -813,4 +814,5 @@ Adult Paradise 7,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91598
 Adult Paradise 8,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91599
 Adult Paradise 9,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91600
 
-測試,#genre#
+
+$c_start 测试$c_end
