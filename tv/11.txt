@@ -15,3 +15,4 @@ text,p5p://45.92.126.18:9906/60435a1000013bcc070a9c3b0ad870c7.ts
 东森戏剧,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14005&key=84797b799ae18d1b
 东森戏剧,http://nb.iptv88888.xyz/hls/dsxiju.m3u8
 东森戲劇,vjms://23.237.115.18:8500:3502/live/cid=425
+東森戲劇,http://50.7.59.216:61980/myplay/cn_4_14005/index.m3u8?key=84797b799ae18d1b
