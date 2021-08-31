@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1,三立台湾台
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETTaiwan.png",三立台湾台
 https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_720_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,三立台湾台
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETTaiwan.png",三立台湾台
 https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_720_av-b.m3u8?rebase=on
-#EXTINF:-1,三立台湾台1080p
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETTaiwan.png",三立台湾台1080p
 https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?rebase=on
