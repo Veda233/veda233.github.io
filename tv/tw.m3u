@@ -6,7 +6,7 @@ https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_720_av-b.m3u8?rebase=
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETTaiwan.png",三立台湾台1080p
 https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?rebase=on
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTV.png",民视
-rtmp://161.202.204.248/sat/tv051
+rtmp://45.92.126.226/channel/60c317bd961593122ebaf90a
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png",台视
 rtmp://161.202.204.248/sat/tv071
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETTaiwan.png",中视
