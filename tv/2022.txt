@@ -8,6 +8,7 @@ $c_start 台湾$c_end
 三立台灣p2p,P2p://860969650:9906/ba70eb94fd0e4b2aae6fb9ece220339
 三立台灣p5p,p5p://fccs.123178.top:9906/60435a1000013bcc070a9c3b0ad870c7.ts
 三立台灣UL,http://ublive.kozow.com/smart/smart.php?url=http://50.7.92.74:8278/sanlitaiwan_zero/playlist.m3u8
+三立台灣23,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333290/index.m3u8
 
 
 $c_start 央视$c_end
