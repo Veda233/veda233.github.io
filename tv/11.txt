@@ -10,6 +10,7 @@ $c_start 台湾$c_end
 $c_start 测试$c_end
 三立臺灣,p8p://0198.02686.cc:16871/5d1a69ae00025bef11bdc56ba098b443.ts#http://198.16.106.62:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb#http://198.16.106.62:8278/streams/d/sanlitaiwan/playlist.m3u8
 text,p5p://45.92.126.18:9906/60435a1000013bcc070a9c3b0ad870c7.ts
+222,http://125.227.210.55:15714/VideoInput/play.ts
 11,p5p://45.92.126.18:9906/60441b4f00036f62001d8ff40f884e87.ts
 東森戲劇,p5p://45.92.126.18:9906/60449e3500031323021ce24de00b3ef2.ts
 东森戏剧,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14005&key=84797b799ae18d1b
