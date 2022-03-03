@@ -1,8 +1,8 @@
-        function myFunction() {
+        function myFunction(id) {
           if (Hls.isSupported()) {
             var video = document.getElementById('video');
             var hls = new Hls();
-            var url = document.getElementById("videoselection").value;
+            var url = document.getElementById("btn_" + id).value;
 
             // bind them together
             hls.attachMedia(video);
