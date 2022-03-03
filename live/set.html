@@ -1,8 +1,7 @@
  <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
     <html xmlns="http://www.w3.org/1999/xhtml">
   <title>TeLaSe</title>
-<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-9">
-<META HTTP-EQUIV="Content-language" CONTENT="tr">
+
 <html>
 
 <head>
@@ -13,19 +12,24 @@
   <link rel='stylesheet' href="./css/style.css">
 <script type="text/javascript" charset="UTF-8"></script></head>
   <body>
-        <div align="center"><h1>Video Player</h1></div>
-        <select id="videoselection" onchange="myFunction()">
-        <option value="">Dropdown to select.</option>
-                <option value="https://hlss.goodgame.ru/hls/188410.m3u8">set</option> 
-                </select>
-<p> </p>
-Enter a video link:
-<div style="text-align: justify;"><input name="textbox" id="textbox"
-type="text"> <input name="buttonExecute" onclick="myFunction1()"
-value="Play" type="button">&nbsp;
+
+
+
+<div style="text-align: justify;">
         <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
         <div align="center"><video id="video" width="853" height="480" controls autoplay"></video></div>
 	    <script src="./js/player.js"></script>
+        <div align="center"><h1>看电视</h1></div>
+
+<!--        <select id="videoselection" onchange="myFunction()">-->
+<!--        <option value="">Dropdown to select.</option>-->
+<!--                <option value="https://hlss.goodgame.ru/hls/188410.m3u8">set</option> -->
+<!--                </select>-->
+
+        <div align="center" id="selection">
+            <button id="btn_1" value="https://hlss.goodgame.ru/hls/188410.m3u8" onclick="myFunction(1)">三立</button>
+            <button id="btn_2" value="https://hlss.goodgame.ru/hls/188410.m3u8" onclick="myFunction(2)">twitch转播</button>
+        </div>
    </body>
 </html>
 </body>
