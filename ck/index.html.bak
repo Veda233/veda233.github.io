@@ -1,51 +1,19 @@
 <!DOCTYPE html>
 <html>
-
 	<head>
-		<meta charset="UTF-8">
-		<title>ckplayer</title>
-		
-		<style type="text/css">
-			body {
-				margin: 0;
-				padding: 0px;
-				font-family: "Microsoft YaHei", YaHei, "微软雅黑", SimHei, "黑体";
-				font-size: 18px;
-			}
-			p{
-				padding-left: 2em;
-			}
-		</style>
-
+		<script type="text/javascript" src="ckplayer/hls.js/hls.min.js"></script>
+		<link rel="stylesheet" type="text/css" href="ckplayer/css/ckplayer.css">
+		<script type="text/javascript" src="ckplayer/js/ckplayer.js"></script>
 	</head>
-
 	<body>
-		<div id="video" style="width: 100%; height: 720px;max-width: 1280px;">
-		</div>
-		<script type="text/javascript" src="ckplayer/ckplayer.js" charset="UTF-8"></script>
-		<script type="text/javascript">
+		<div class="video"></div>
+		<script>
 			var videoObject = {
-				container: '#video', //容器的ID或className
-				variable: 'player', //播放函数名称
-				loop: true, //播放结束是否循环播放
-				autoplay: true,//是否自动播放
-				poster: 'material/poster.jpg', //封面图片
-				preview: { //预览图片
-					file: ['material/mydream_en1800_1010_01.png', 'material/mydream_en1800_1010_02.png'],
-					scale: 2
-				},
-				//flashplayer:true,
-				//debug:true,
-				video: [
-					['https://vkvsd33.mycdn.me/hls/2382627670633.m3u8/sig/pJZd-mweqdc/srcIp/106.122.230.209/expires/1650904444913/clientType/13/srcAg/CHROME_ANDROID/fromCache/1/mid/3415729515369/id/2382627670633/video.m3u8?p', 'video/m3u8', '源1', 0],
-					['https://hlss.goodgame.ru/hls/188410.m3u8', 'video/m3u8', '源2', 0],
-					['http://ckplayer-video-sample.oss-cn-shanghai.aliyuncs.com/sample-mp4/eb048d7839442d0.mp4', 'video/mp4', '英文高清', 0],
-					['http://ckplayer-video-sample.oss-cn-shanghai.aliyuncs.com/sample-mp4/d30e02a5626c066.mp4', 'video/mp4', '英文超清', 0]
-				]
+				container: '.video', //容器的ID或className
+				plug:'hls.js',//设置使用hls插件
+				video:'https://vkvsd33.mycdn.me/hls/2382627670633.m3u8/sig/pJZd-mweqdc/srcIp/106.122.230.209/expires/1650904444913/clientType/13/srcAg/CHROME_ANDROID/fromCache/1/mid/3415729515369/id/2382627670633/video.m3u8?p'
 			};
-			var player = new ckplayer(videoObject);
+			new ckplayer(videoObject);
 		</script>
-		
 	</body>
-
 </html>
