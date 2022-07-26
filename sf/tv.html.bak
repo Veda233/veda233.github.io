@@ -27,7 +27,33 @@
 <!--                </select>-->
 
        <div align="center" id="selection" >
-             <button id="btn_1"  value="http://veda233.top/sf/14.html" onclick="myFunction(1)" style="width:200px;height:60px;font-size:24px">第14集</button>
+             <a href="https://www.baidu.com/">
+			 <button id="btn_1"  onclick="location.href=("index.aspx")" style="width:200px;height:60px;font-size:24px">第14集</button>
+			 </a>
+			 <a href="https://www.baidu.com/">
+			 <button id="btn_1"  onclick="location.href=("index.aspx")" style="width:200px;height:60px;font-size:24px">第15集</button>
+			 </a>
+			 <a href="https://www.baidu.com/">
+			 <button id="btn_1"  onclick="location.href=("index.aspx")" style="width:200px;height:60px;font-size:24px">第16集</button>
+			 </a>
+			 <a href="https://www.baidu.com/">
+			 <button id="btn_1"  onclick="location.href=("index.aspx")" style="width:200px;height:60px;font-size:24px">第17集</button>
+			 </a>
+			 <a href="https://www.baidu.com/">
+			 <button id="btn_1"  onclick="location.href=("index.aspx")" style="width:200px;height:60px;font-size:24px">第18集</button>
+			 </a>
+			 <a href="https://www.baidu.com/">
+			 <button id="btn_1"  onclick="location.href=("index.aspx")" style="width:200px;height:60px;font-size:24px">第19集</button>
+			 </a>
+			 <a href="https://www.baidu.com/">
+			 <button id="btn_1"  onclick="location.href=("index.aspx")" style="width:200px;height:60px;font-size:24px">第20集</button>
+			 </a>
+			 <a href="https://www.baidu.com/">
+			 <button id="btn_1"  onclick="location.href=("index.aspx")" style="width:200px;height:60px;font-size:24px">第21集</button>
+			 </a>
+			 <a href="https://www.baidu.com/">
+			 <button id="btn_1"  onclick="location.href=("index.aspx")" style="width:200px;height:60px;font-size:24px">第22集</button>
+			 </a>
         </div>
 		
    </body>
