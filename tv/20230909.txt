@@ -1,3 +1,4 @@
+Taiwan,#genre#
 115新天地民俗臺,https://epg.pw/stream/a29ba2a4077fadda7271f9196d93073850de7b69cae5be8467b20fd906de21ba.m3u8
 115新天地民俗臺[geo-blocked],https://epg.pw/stream/efa42e59aecbd98363af827d3a0b4cdb07611efa4e13c3145a31608fb8a8ea4a.m3u8
 CatchPlay電影[geo-blocked],https://epg.pw/stream/9b9d4e177932ba4d1605f72797863393612502681dd7512e124e8db839e9bc9b.ctv
